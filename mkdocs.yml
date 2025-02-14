@@ -1,0 +1,40 @@
+# mkdocs.yml
+site_name: Lieu-Dit
+
+extra_css:
+  - stylesheets/extra.css
+
+theme: 
+  name: material
+  language: fr
+  icon:
+    logo: material/human
+  #favicon: images/favicon.png
+  features:
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    - navigation.sections
+    #- toc.integrate 
+
+nav:
+  - Accessibilité: 
+    - Vidéo LSF: lsf.md 
+    - Fiche Accessibilité: index.md
+    - Où trouver la fiche ?: infos.md
+  - Pour les orgas: 
+    - ressources.md
+    - Ressources:
+      - orgas/dispositifs.md
+      - orgas/accueillir_dv.md
+      - orgas/materiel.md
+  - Travail en cours:
+    - En discussion: todo.md
+    - À propos: about.md
+
+#markdown_extensions:
+  #- toc:
+    #- toc_depth: 2
+
+plugins:
+  - search
+  - print-site

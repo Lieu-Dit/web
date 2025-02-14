@@ -1,0 +1,3 @@
+# Quelques points pour accueillir une personne déficiente visuelle
+
+...

@@ -1,4 +1,4 @@
-# Vidéo Accessibilité en Langue des signes française (LSF)
+# <span class="img-3rem">![](assets/lsf.png)</span> Vidéo Accessibilité en Langue des signes française (LSF)
 
 ...
 

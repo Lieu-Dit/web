@@ -20,7 +20,7 @@ theme:
 
 nav:
   - Accessibilité: 
-    - Vidéo LSF: lsf.md 
+    - <span class="lsf">Vidéo LSF</span>: lsf.md 
     - Fiche Accessibilité: index.md
     - Où trouver la fiche ?: infos.md
   - Pour les orgas: 

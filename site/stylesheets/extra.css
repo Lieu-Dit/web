@@ -7,3 +7,74 @@ h1{
 .md-typeset h1, .md-typeset h2{
     
 }
+
+@font-face {
+  font-family: "Luciole";
+  src: url(Luciole/Luciole-Regular.ttf);
+}
+@font-face {
+  font-family: "Luciole";
+  src: url(Luciole/Luciole-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url(Luciole/Luciole-Regular-Italic.ttf);
+  font-style: italic;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url(Luciole/Luciole-Bold-Italic.ttf);
+  font-weight: bold;
+  font-style: italic;
+}
+
+:root > * {
+  --md-default-fg-color--light: black;
+  --md-primary-bg-color: black;
+  --md-primary-fg-color: #ffec3d;
+  --md-accent-fg-color: black;
+  --md-primary-bg-color--light: black;
+  --md-typeset-a-color: black;
+  --md-text-font: "Luciole"; 
+}
+
+.md-search__form{
+    background-color: #fff;
+}
+
+.md-nav__link{
+padding: 2px;
+}
+.md-nav__link.md-nav__link--passed.md-nav__link--active,
+.md-nav__link.md-nav__link--active{
+    background-color: #ffec3d;
+    color: black;
+}
+
+p a{
+    padding: 5px;
+    background-color: #ffd17b;
+    text-decoration: underline;
+    line-height: 2em;
+/*     color: black; */
+}
+/*.md-nav__link--passed{
+    color: #444;
+}*/
+
+.img-3rem img{
+  height: 3rem;
+}
+
+.lsf{
+  line-height: 40px;
+}
+.lsf::before{
+  background-image: url("../assets/lsf.png");
+  background-size: calc(129/174 * 40px) 40px;
+  display: inline-block;
+  width: calc(129/174 * 40px); 
+  height: 40px;
+  content:"";
+}

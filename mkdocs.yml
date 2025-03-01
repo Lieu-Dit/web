@@ -33,6 +33,9 @@ nav:
   - Travail en cours:
     - En discussion: todo.md
     - À propos: about.md
+  - Évenements:
+    - <span class="lsf">Programmes LSF</span>: programme_lsf.md
+    - Agenda Pommes de Lune: https://pommesdelune.fr/place/2-le-lieu-dit
 
 #markdown_extensions:
   #- toc:

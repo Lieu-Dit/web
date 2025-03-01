@@ -1,5 +1,6 @@
 # mkdocs.yml
 site_name: Lieu-Dit
+site_description: Page accessibilité du Lieu-Dit
 
 extra_css:
   - stylesheets/extra.css

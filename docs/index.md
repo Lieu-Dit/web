@@ -1,7 +1,8 @@
 # Fiche Accessibilité
 
 
-## Emplacement
+## <span class="img-2rem">![](assets/marker.svg)</span> Emplacement
+
 L’entrée principale du Lieu-Dit est au 10 rue Fontgiève, à Clermont-Ferrand (code postal 63000).
 L’entrée du Foyer du Lieu-Dit est rue Claude Baccot.
 
@@ -14,7 +15,7 @@ Il y a des espaces ouverts au public : le Foyer, la Vitrine, le Hall, le Théât
 Il y a des espaces pour travailler : le Bureau, la Galerie, l’Appartement, l’Atelier, les Loges.
 
 
-## Aller au Lieu-Dit
+## <span class="img-2rem">![](assets/marker.svg)</span> Aller au Lieu-Dit
 
 
 ### À pied ou à vélo
@@ -31,19 +32,18 @@ L’entrée principale (rue Fontgiève) est à 120m de l’arrêt de tram et à 
 L’entrée du Foyer est à 180m de l’arrêt de tram et à 150m de l’arrêt des bus 5 et 32.
 
 
-### En voiture
+### <span class="img-2rem">![](assets/car-side.svg)</span> En voiture
 Il n’y a des places de parking à proximité, et un parking souterrain place Gaillard.
 Il n’y a pas de place de parking large, réservée aux personnes en situation de handicap, à proximité. *R Plutôt dire où est la/les plus proches.
 
 
 ## Accessibilité
-*R Vous trouverez ci-dessous des informations spécifiques concernant
+Vous trouverez ci-dessous des informations spécifiques concernant
 certains facteurs d'accessibilité de ce lieu. Contactez-nous si vous avez
 besoin d'informations supplémentaires.
 
 
-### Informations générales
-
+### <span class="img-2rem">![](assets/info.svg) Informations générales</span>
 Des toilettes neutres sont disponibles :
 - Au rez-de-chaussée au Foyer, dans la Vitrine et dans le Bureau ;
 - Aux étages vers le Club et à côté de l’Appartement.
@@ -60,7 +60,8 @@ Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible. 
 
 *S Il y a des protections hygiéniques à disposition dans les toilettes.
 
-*D Il y a des patères dans les toilettes.
+!!! warning "en cours"
+    Il y a des patères dans les toilettes.
 
 Le bâtiment est généralement peu chauffé. Pour les chaudes journées d'été, il garde bien le frais notamment au Foyer et dans la Galerie.
 
@@ -72,10 +73,11 @@ couverts, verres sont à disposition.
 Le réseau de téléphone ne passe pas toujours bien à l’intérieur des espaces. Il n’y a pas de connexion internet par WIFI à disposition.
 
 
-### Informations pour les personnes avec un handicap moteur
+### <span class="img-2rem">![](assets/wheelchair.svg)</span> Informations pour les personnes avec un handicap moteur
 Les portes d'entrée ne sont pas motorisées. Ce sont des portes battantes. *R Cela peut être difficile pour les personnes en fauteuil roulant ou pour les personnes avec des troubles de la préhension.
 
-*D Une assistance est disponible à la porte d'entrée si vous en avez besoin. Veuillez sonner à la porte pour obtenir de l'aide. La sonnette est à une hauteur adaptée aux utilisateurs de fauteuils roulants.
+!!! failure "non installé"
+    Une assistance est disponible à la porte d'entrée si vous en avez besoin. Veuillez sonner à la porte pour obtenir de l'aide. La sonnette est à une hauteur adaptée aux utilisateurs de fauteuils roulants.
 
 Le sol du rez-de-chaussée est plat et convient à la plupart des fauteuils roulants et autres aides à la mobilité.
 
@@ -88,22 +90,20 @@ Les portes des toilettes du Foyer font 110cm de large.
 La porte d’entrée de la Vitrine fait 90cm de large.
 Les portes aux étages font 90cm de large.
 
-*D Nous disposons d'un chargeur 24 V 8 A qui convient à la plupart des fauteuils électriques et des scooters de mobilité. Vous pouvez recharger votre équipement à l'aide de ce chargeur ou de votre propre chargeur.
+!!! warning "en cours"
+    Nous disposons d'un chargeur 24 V 8 A qui convient à la plupart des fauteuils électriques et des scooters de mobilité. Vous pouvez recharger votre équipement à l'aide de ce chargeur ou de votre propre chargeur.
 
 À certains événements des canapés et des chaises sont à disposition.
 
 
-### Informations pour les personnes sourdes, malentendantes et sensibles au son
+### <span class="img-2rem">![](assets/ear-deaf.svg)</span><span class="img-2rem">![](assets/lsf.png)</span> Informations pour les personnes sourdes, malentendantes et sensibles au son
 Il n’y a pas de boucle d’induction magnétique dans les espaces du Lieu-Dit.
-
-*D Nous disposons d'un système auditif portable à boucle d'induction compatible avec tous les utilisateurs d'appareils auditifs dotés d'un réglage T (bobine téléphonique).
-*D Notre système de boucle d'induction convient également à certaines personnes sourdes appareillées et malentendantes qui n'ont pas d'appareil auditif compatible avec l'induction, grâce à l'utilisation d'un récepteur portatif.
 
 Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible.
 
-Certains événements font appel à des interprètes en langue des signes française (LSF) ou mettent en place le sous-titrage codé (Closed Captioning) pour les présentations vidéo.
+Certains événements ou spectacles bilingues font appel à des interprètes en langue des signes française (LSF) ou mettent en place le sous-titrage codé (Closed Captioning) pour les présentations vidéo.
 
-*S Ces dispositifs sont indiqués sur le programme du mois.
+Les dispositifs mis en place sont indiqués sur le programme du mois.
 
 Certains espaces sont parfois bruyant.
 Nous disposons de salles de réunion que tout le monde est invité à utiliser.
@@ -111,25 +111,31 @@ Nous disposons de salles de réunion que tout le monde est invité à utiliser.
 Nous disposons d'un petit nombre de protège-oreilles pour les personnes qui ont besoin d'une protection auditive dans les situations sociales en raison de leur sensibilité au son.
 
 
-### Informations pour les personnes aveugles, malvoyantes et photosensibles.
+### <span class="img-2rem">![](assets/eye-slash.svg)</span><span class="img-2rem">![](assets/cane.svg)</span> Informations pour les personnes aveugles, malvoyantes et photosensibles.
+
 Les animaux d'assistance sont les bienvenus et de l'eau potable est à leur disposition.
 Le programme mensuel est disponible en braille et en version agrandie sur demande.
 
-*S Les documents sont généralement disponibles en version agrandie.
+Les documents sont généralement disponibles en version agrandie.
 
 Une embosseuse braille est à disposition des associations usagères. Les versions braille des documents peuvent être disponibles sur demande.
 Les versions CD audio, CD DAISY ne sont généralement pas disponibles.
 Les versions MP3 audio et diagramme tactile ne sont généralement pas disponibles, mais peuvent l'être sur demande.
 
-Un éclairage sans scintillement est utilisé dans tout le bâtiment. *D
-Des lampes LED supplémentaires sont à disposition dans le Bureau, sur demande. La Vitrine et l’Appartement ont de grandes baies vitrées, et ne disposent pas de stores réglables permettant de réduire l'éblouissement.
+Un éclairage sans scintillement est utilisé dans tout le bâtiment. 
+
+!!! failure "non installé"
+    Des lampes LED supplémentaires sont à disposition dans le Bureau, sur demande. 
+
+La Vitrine et l’Appartement ont de grandes baies vitrées, et ne disposent pas de stores réglables permettant de réduire l'éblouissement.
 
 Les vitres de la Vitrine sont occultées en partie *R jusqu’à xx cm. Les autres espaces ont très peu de vitres donnant sur l’extérieur.
 
-Il n’y a pas de bande de guidage entre les différents espaces, notamment dans la Galerie qui est très vaste et permet de se diriger dans le Hall, au
-Foyer ou dans l’Atelier.
+Il n’y a pas de bande de guidage entre les différents espaces, notamment dans la Galerie qui est très vaste et permet de se diriger dans le Hall, au Foyer ou dans l’Atelier.
 
-*D Il y a une balise sonore à l’entrée principale rue Fontgiève, et à l’entrée du Foyer rue Claude Baccot.
+!!! warning "en cours d'installation"
+    Il y a une balise sonore à l’entrée principale rue Fontgiève, et à l’entrée du Foyer rue Claude Baccot.
+
 Dans le Foyer des grandes marches forment un gradin qui donne sur un petit espace plus bas. Des marches permettent d’y descendre. Il n’y a pas de rampe.
 L’accès aux étages se fait par un escalier avec des marches alternativement blanches et noires. Une rampe est présente mais s’arrête avant la dernière marche.
 
@@ -139,30 +145,31 @@ Il y a une volée de marches pour descendre dans les Loges.
 Il y a un grand escalier pour aller à l’Appartement *R (avec ou sans rampe ?).
 
 
-### *R Informations pour les personnes autistes,
-anxieuses et neurodiverses
+### *R Informations pour les personnes autistes, anxieuses et neurodiverses
 Nous ne disposons pas de jouets sensoriels.
 
 
 ### Informations pour les personnes souffrant d'allergies graves ou immunodéprimées
 Il n’y a pas de système de climatisation.
 
-Des *D détecteurs de dioxyde de carbone (CO2) pour contrôler la qualité de l’air sont présents :
-- au Foyer
-- dans la Vitrine
-- au Club
+!!! failure "non installé"
+    Des détecteurs de dioxyde de carbone (CO2) pour contrôler la qualité de l’air sont présents :
+    - au Foyer
+    - dans la Vitrine
+    - au Club
 
-*D Des masques en papier sont à disposition sur demande, dans le Bureau.
+Des masques en papier sont à disposition sur demande, dans le Bureau.
 
 Des masques de sécurité FFP2 et de masques à particules sont à disposition sur demande, dans l’Atelier.
 
 
 ### Informations sur les premiers secours
 
-*D Des trousses de premiers secours sont à disposition :
-- dans la cuisine du Foyer, bien en vue sur le mur, dans un sac en tissu vert.
-- dans la Vitrine
-- dans le Bureau à la demande
+!!! warning "en cours d'installation "
+    Des trousses de premiers secours sont à disposition :
+    - dans la cuisine du Foyer, bien en vue sur le mur, dans un sac en tissu vert.
+    - dans la Vitrine
+    - dans le Bureau à la demande
 
 Un défibrillateur est à disposition, à l’entrée rue Fontgiève. Lorsque le rideau en fer est fermé, le défibrillateur n’est pas accessible.
 

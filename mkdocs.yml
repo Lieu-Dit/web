@@ -44,3 +44,8 @@ nav:
 plugins:
   - search
   - print-site
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

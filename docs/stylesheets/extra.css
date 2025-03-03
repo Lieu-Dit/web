@@ -63,6 +63,10 @@ p a{
     color: #444;
 }*/
 
+.img-2rem img{
+  height: 2rem;
+  line-height: 2rem;
+}
 .img-3rem img{
   height: 3rem;
 }
@@ -70,6 +74,7 @@ p a{
 .lsf{
   line-height: 40px;
 }
+
 .lsf::before{
   background-image: url("../assets/lsf.png");
   background-size: calc(129/174 * 40px) 40px;
@@ -77,4 +82,9 @@ p a{
   width: calc(129/174 * 40px); 
   height: 40px;
   content:"";
+}
+
+.md-typeset h3
+{
+  text-decoration: underline;
 }

@@ -21,7 +21,7 @@ Il y a des espaces pour travailler : le Bureau, la Galerie, l’Appartement, l�
     Certains espaces ne sont accessibles que par des escaliers : le Théâtre, le Club, l’Appartement, les Loges. L'installation d'un ascenceur est prévue pour les grands travaux (2026).
 
 
-## <span class="img-2rem">![](assets/marker.svg)</span>Aller au Lieu-Dit
+## <span class="img-2rem">![](assets/route-2.svg)</span>Aller au Lieu-Dit
 
 
 ### <span class="img-2rem">![](assets/bicycle.svg)</span>À pied ou à vélo
@@ -34,7 +34,7 @@ Dans la rue Baccot et dans la rue Sainte-Claire, le trottoir est délimité seul
 *R Le trottoir de la rue Fontgiève fait xx cm de large, c’est un peu étroit lorsqu’il y a beaucoup de monde dans le Hall extérieur.
 
 
-### En tram ou en bus
+### <span class="img-2rem">![](assets/bus.svg)</span>En tram ou en bus
 Vous pouvez rejoindre l’arrêt « Gaillard » avec le tram A, le bus 5, le bus 32, et la navette du centre-ville. 
 
 L'arrêt de tram se reconnait avec le pictogramme Pingouin : 
@@ -57,7 +57,8 @@ Vous trouverez ci-dessous des informations spécifiques concernant certains fact
 
 
 ### <span class="img-2rem">![](assets/circle-info.svg)</span>Informations générales
-Des toilettes neutres sont disponibles :
+
+<span class="middle img-2rem">![](assets/toilet-paper.svg)</span>Des toilettes neutres sont disponibles :
 
 - Au rez-de-chaussée au Foyer, dans la Vitrine et dans le Bureau ;
 - Aux étages vers le Club et à côté de l’Appartement.
@@ -72,27 +73,27 @@ Il y a une table pour changer bébé dans les toilettes du Foyer.
 
 Il y a des poubelles dans chaque cabine.
 
-Les aidants sont les bienvenus à tous les événements.
-
-Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible. *S Où / comment ?
-
 !!! warning "en cours"
     Il y a des protections périodiques à disposition dans les toilettes.
     Il y a des poubelles dans les toilettes.
     Il y a des patères dans les toilettes, à 90cm de haut et à 130cm de haut.
 
-Le bâtiment est généralement peu chauffé. Pour les chaudes journées d'été, il garde bien le frais notamment au Foyer et dans la Galerie.
+<span class="middle img-2rem">![](assets/people-simple.svg)</span>Les aidants sont les bienvenus à tous les événements.
+
+<span class="middle img-2rem">![](assets/dog-leashed.svg)</span>Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible. *S Où / comment ?
+
+<span class="middle img-2rem">![](assets/temperature-low.svg)</span>Le bâtiment est généralement peu chauffé. Pour les chaudes journées d'été, il garde bien le frais notamment au Foyer et dans la Galerie.
 
 !!! warning "en cours"
     Des couvertures et des oreillers sont également à disposition des personnes qui souhaitent se reposer en raison de la fatigue ou d'un handicap.
 
-Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier n’a qu’un bac. Des ustensiles de cuisine et des assiettes, couverts, verres sont à disposition.
+<span class="middle img-2rem">![](assets/plate-utensils.svg)</span>Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier n’a qu’un bac. Des ustensiles de cuisine et des assiettes, couverts, verres sont à disposition.
 L'eau chaude est stockée dans un ballon, attention à l'économiser.
 
 Le réseau de téléphone ne passe pas toujours bien à l’intérieur des espaces. Il n’y a pas de connexion internet par WIFI à disposition.
 
 
-### <span class="img-2rem">![](assets/wheelchair.svg)</span>Informations pour les personnes avec un handicap moteur
+### <span class="img-2rem">![](assets/wheelchair.svg)</span><span class="img-2rem">![](assets/person-cane-1.svg)</span>Informations pour les personnes avec un handicap moteur
 Les portes d'entrée ne sont pas motorisées. Ce sont des portes battantes. *R Cela peut être difficile pour les personnes en fauteuil roulant ou pour les personnes avec des troubles de la préhension.
 
 !!! failure "non installé"
@@ -222,7 +223,7 @@ Des masques de sécurité FFP2 et de masques à particules sont à disposition s
 En cas d'urgence concernant des personnes, vous devez appeler le 15 à partir du téléphone du bureau ou d'un téléphone portable. L'adresse est 10 rue Fontgiève, Clermont-Ferrand ou rue Claude Baccot, Clermont-Ferrand pour le Foyer.
 
 
-### Alimentation et régime alimentaire
+### <span class="img-2rem">![](assets/pear-1.svg)</span><span class="img-2rem">![](assets/mug-hot.svg)</span>Alimentation et régime alimentaire
 
 De l’eau fraîche est disponible.
 
@@ -242,12 +243,12 @@ Pour certains événements, il est possible de venir vous chercher place Gaillar
 
 N'hésitez pas à nous contacter si vous souhaitez rencontrer quelqu'un en tête-à-tête à l'avance.
 
-Si vous avez des questions écrivez : [lieu-dit@ville-clermont-ferrand.fr](mailto:lieu-dit@ville-clermont-ferrand.fr)
+Si vous avez des questions écrivez à : [lieu-dit@ville-clermont-ferrand.fr](mailto:lieu-dit@ville-clermont-ferrand.fr)
 
 
 ## Informations sur la fiche accessibilité
 Cette fiche accessibilité en français et sa version vidéo en Langue des signes française (LSF) ont été produites pour le Lieu-Dit sur la base de deux rencontres qui ont réunies 25 bénévoles-expertes et professionnelles en janvier et février 2025.
 
-Cette fiche et sa version vidéo en LSF ont été produites en s’appuyant sur la page web Accessibilité du Centre de Ressources Trans de Belfast.
+Cette fiche et sa version vidéo en LSF ont été produites en s’appuyant sur la page web [Accessibilité du Centre de Ressources Trans de Belfast](https://belfasttrans.org.uk/about/access).
 
-Cette fiche est réutilisable pour un usage non-commercial et sous licence Creative Commons BY-NC-SA v4.0.
+Cette fiche est réutilisable pour un usage non-commercial et sous licence [Creative Commons BY-NC-SA v4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).

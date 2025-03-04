@@ -16,12 +16,15 @@ Il y a des espaces ouverts au public : le Foyer, la Vitrine, le Hall, le Théât
 
 Il y a des espaces pour travailler : le Bureau, la Galerie, l’Appartement, l’Atelier, les Loges.
 
+!!! failure "Accès aux étages"
+    Certains espaces ne sont accessibles que par des escaliers : le Théâtre, le Club, l’Appartement, les Loges. L'installation d'un ascenceur est prévue pour les grands travaux (2026).
+
 
 ## <span class="img-2rem">![](assets/marker.svg)</span>Aller au Lieu-Dit
 
 
 ### <span class="img-2rem">![](assets/bicycle.svg)</span>À pied ou à vélo
-Les vélos peuvent être garés de l’autre côté de la rue Fontgiève ou sur la place Gaillard.
+Les vélos peuvent être garés de l’autre côté de la rue Fontgiève, sur la place Gaillard, ou en haut de la rue de la Michaudière.
 
 La rue Claude Baccot est pavée et se rejoint par la rue Fontgiève ou la rue Sainte-Claire (pavée aussi). 
 
@@ -31,7 +34,11 @@ Dans la rue Baccot et dans la rue Sainte-Claire, le trottoir est délimité seul
 
 
 ### En tram ou en bus
-Vous pouvez rejoindre l’arrêt « Gaillard » avec le tram A, le bus 5, le bus 32, et la navette du centre-ville.
+Vous pouvez rejoindre l’arrêt « Gaillard » avec le tram A, le bus 5, le bus 32, et la navette du centre-ville. 
+
+L'arrêt de tram se reconnait avec le pictogramme Pingouin : 
+
+<span class="img-4rem">![](assets/pingouin.svg)</span>
 
 L’entrée principale (rue Fontgiève) est à 120m de l’arrêt de tram et à 60m de l’arrêt des bus 5 et 32.
 
@@ -58,7 +65,7 @@ Il s'agit de cabines individuelles dotées d'installations sanitaires.
 
 Dans les toilettes du Foyer, une cabine est accessible aux personnes en fauteuil roulant.
 
-Les toilettes accessibles ne répondent pas aux normes de Changing Places Standard.
+Les toilettes accessibles "PMR" sont sans cuvette rallongée, il y a de la place pour la rotation d'un fauteuil. Les toilettes accessibles "PMR" ne répondent pas aux normes de Changing Places Standard.
 
 Il y a une table pour changer bébé dans les toilettes du Foyer.
 
@@ -77,8 +84,8 @@ Le bâtiment est généralement peu chauffé. Pour les chaudes journées d'été
 
 *D Des couvertures et des oreillers sont également à disposition des personnes qui souhaitent se reposer en raison de la fatigue ou d'un handicap.
 
-Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier n’a qu’un bac. Des ustensiles de cuisine et des assiettes,
-couverts, verres sont à disposition.
+Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier n’a qu’un bac. Des ustensiles de cuisine et des assiettes, couverts, verres sont à disposition.
+L'eau chaude est stockée dans un ballon, attention à l'économiser.
 
 Le réseau de téléphone ne passe pas toujours bien à l’intérieur des espaces. Il n’y a pas de connexion internet par WIFI à disposition.
 
@@ -91,7 +98,11 @@ Les portes d'entrée ne sont pas motorisées. Ce sont des portes battantes. *R C
 
 Le sol du rez-de-chaussée est plat et convient à la plupart des fauteuils roulants et autres aides à la mobilité.
 
-L’accès aux étages se fait par un escalier et empêche donc l’accès aux utilisateurs de fauteuils roulants au Théâtre, au Club, aux Loges et à l’Appartement.
+
+!!! failure "Accès aux étages"
+    L’accès aux étages se fait par un escalier et empêche donc l’accès aux utilisateurs de fauteuils roulants au Théâtre, au Club, aux Loges et à l’Appartement.
+    L'installation d'un ascenceur est prévue pour les grands travaux (2026).
+    
 
 Les portes du rez-de-chaussée sont des portes de bureau standard, suffisamment larges pour les utilisateurs de fauteuils roulants.
 
@@ -108,7 +119,7 @@ Les portes aux étages font 90cm de large.
 !!! warning "en cours"
     Nous disposons d'un chargeur 24 V 8 A qui convient à la plupart des fauteuils électriques et des scooters de mobilité. Vous pouvez recharger votre équipement à l'aide de ce chargeur ou de votre propre chargeur.
 
-À certains événements des canapés et des chaises sont à disposition.
+À certains événements des canapés, des chaises, des tables pliantes sont à disposition.
 
 
 ### <span class="img-2rem">![](assets/ear-deaf.svg)</span><span class="img-2rem">![](assets/lsf.png)</span>Informations pour les personnes sourdes, malentendantes et sensibles au son
@@ -154,10 +165,14 @@ La Vitrine et l’Appartement ont de grandes baies vitrées, et ne disposent pas
 
 Les vitres de la Vitrine sont occultées en partie *R jusqu’à xx cm. Les autres espaces ont très peu de vitres donnant sur l’extérieur.
 
-Il n’y a pas de bande de guidage entre les différents espaces, notamment dans la Galerie qui est très vaste et permet de se diriger dans le Hall, au Foyer ou dans l’Atelier.
+Il n'y a pas de bande d'interception aux entrées rue Fontgiève ou rue Claude Baccot.
 
 !!! warning "en cours d'installation"
     Il y a une balise sonore à l’entrée principale rue Fontgiève, et à l’entrée du Foyer rue Claude Baccot.
+
+A l'entrée rue Fontgiève, le hall extérieur abrité est très sombre.
+
+Il n’y a pas de bande de guidage entre les différents espaces, notamment dans la Galerie qui est très vaste et permet de se diriger dans le Hall, au Foyer ou dans l’Atelier.
 
 Dans le Foyer des grandes marches forment un gradin qui donne sur un petit espace plus bas. Des marches permettent d’y descendre. Il n’y a pas de rampe.
 

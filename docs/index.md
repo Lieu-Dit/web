@@ -10,7 +10,8 @@ L’entrée du Foyer du Lieu-Dit est rue Claude Baccot.
 *R Un rideau en fer peut fermer l’entrée rue Fontgiève. Le rideau est en 3 parties, et toutes ne sont pas ouvertes en même temps. Derrière le rideau il y a un Hall extérieur mais couvert. 
 Depuis le Hall couvert il y a des accès vers le Hall intérieur, vers la Vitrine et vers le Bureau.
 
-*D Il n’y a pas de sonnette.
+!!! warning "en cours"
+    Il y a une sonnette à l'entrée, à 90cm de haut, pour demander une aide humaine.
 
 Il y a des espaces ouverts au public : le Foyer, la Vitrine, le Hall, le Théâtre, le Club.
 
@@ -82,7 +83,8 @@ Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible. 
 
 Le bâtiment est généralement peu chauffé. Pour les chaudes journées d'été, il garde bien le frais notamment au Foyer et dans la Galerie.
 
-*D Des couvertures et des oreillers sont également à disposition des personnes qui souhaitent se reposer en raison de la fatigue ou d'un handicap.
+!!! warning "en cours"
+    Des couvertures et des oreillers sont également à disposition des personnes qui souhaitent se reposer en raison de la fatigue ou d'un handicap.
 
 Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier n’a qu’un bac. Des ustensiles de cuisine et des assiettes, couverts, verres sont à disposition.
 L'eau chaude est stockée dans un ballon, attention à l'économiser.

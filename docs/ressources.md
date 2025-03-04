@@ -26,7 +26,7 @@ Flyers, plaquettes, documents de travail :
 - fournir les documents en avance si possible
 
 ## Ressources sur place ou à imprimer
-- Fiches signalétiques pour annoncer les dispositifs
+- Fiches signalétiques pour annoncer les dispositifs à télécharger au [format ODT](assets/pictos.odt) et [format DOCX](assets/pictos.docx).
 - [Fiche à penser quand on accueille une personne DV](orgas/accueillir_dv.md)
 - [Fiche check matériel](orgas/materiel.md)
 - livret du collectif Les Dévalideuses [Accessibiliser un événement](https://lesdevalideuses.org/wp-content/uploads/2022/04/Guide_accessibiliser-un-evenement.pdf)

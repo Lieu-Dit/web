@@ -45,6 +45,8 @@ L’entrée principale (rue Fontgiève) est à 120m de l’arrêt de tram et à 
 
 L’entrée du Foyer est à 180m de l’arrêt de tram et à 150m de l’arrêt des bus 5 et 32.
 
+Voir le trajet de l'arrêt de tram jusqu'à l'entrée rue Fontgiève [sur GoogleMaps](https://maps.app.goo.gl/ke346xQUH7vv61QJ6).
+
 
 ### <span class="img-2rem">![](assets/car-side.svg)</span>En voiture
 Il n’y a des places de parking à proximité, et un parking souterrain place Gaillard.
@@ -76,7 +78,7 @@ Il y a des poubelles dans chaque cabine.
 !!! warning "en cours"
     Il y a des protections périodiques à disposition dans les toilettes.
     Il y a des poubelles dans les toilettes.
-    Il y a des patères dans les toilettes, à 90cm de haut et à 130cm de haut.
+    Il y a des patères dans les toilettes, à 90cm de haut et à 130cm de haut. *R précisez où.
 
 <span class="middle img-2rem">![](assets/people-simple.svg)</span>Les aidants sont les bienvenus à tous les événements.
 

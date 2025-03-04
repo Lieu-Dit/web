@@ -1,7 +1,7 @@
 # Equipements et services en discussion
 
 ## Faire d'ici l'été
-- [ ] patères et poignée dans les toilettes : à 1,30 mètres pour les personnes grandes + à 0,90m pour les fauteuils et les personnes petites
+- [ ] patères et poignée dans les toilettes : à 1,30 mètres pour les personnes grandes + à 0,90m pour les fauteuils et les personnes petites. précisez dans la fiche où elles sont (par ex sur chaque porte)
 - [ ] réglage de la temporisation de la lumière dans les toilettes
 - [ ] poubelles dans les toilettes
 - [ ] protections périodiques dans les toilettes

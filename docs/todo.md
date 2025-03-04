@@ -1,10 +1,11 @@
 # Equipements et services en discussion
 
-## Fait d'ici l'été
+## Faire d'ici l'été
 - [ ] patères et poignée dans les toilettes : à 1,30 mètres pour les personnes grandes + à 0,90m pour les fauteuils et les personnes petites
 - [ ] réglage de la temporisation de la lumière dans les toilettes
 - [ ] poubelles dans les toilettes
 - [ ] protections périodiques dans les toilettes
+- [ ] table pour changer bébé dans les toilettes du Foyer.
 
 - [ ] EPI dans l'atelier
 

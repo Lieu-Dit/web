@@ -11,5 +11,5 @@ Cette vidéo et sa version française ont été produites en s’appuyant sur la
 
 Cette vidéo a été filmée par ... , est signée par ..., montée par ... .
 
-Cette vidéo Accessibilité en LSF est réutilisable pour un usage non-commercial et sous licence Creative Commons BY-NC-SA v4.0.
+Cette vidéo Accessibilité en LSF est réutilisable pour un usage non-commercial et sous licence [Creative Commons BY-NC-SA v4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 

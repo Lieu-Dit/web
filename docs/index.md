@@ -58,10 +58,10 @@ Les aidants sont les bienvenus à tous les événements.
 
 Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible. *S Où / comment ?
 
-*S Il y a des protections hygiéniques à disposition dans les toilettes.
-
 !!! warning "en cours"
-    Il y a des patères dans les toilettes.
+    Il y a des protections périodiques à disposition dans les toilettes.
+    Il y a des poubelles dans les toilettes.
+    Il y a des patères dans les toilettes, à 90cm de haut et à 130cm de haut.
 
 Le bâtiment est généralement peu chauffé. Pour les chaudes journées d'été, il garde bien le frais notamment au Foyer et dans la Galerie.
 
@@ -101,9 +101,14 @@ Il n’y a pas de boucle d’induction magnétique dans les espaces du Lieu-Dit.
 
 Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible.
 
+!!! note "Programme mensuel en LSF"
+    Le programme mensuel est disponible en LSF en ligne, et via un QR-code situé à l'entrée du Lieu-Dit.
+
 Certains événements ou spectacles bilingues font appel à des interprètes en langue des signes française (LSF) ou mettent en place le sous-titrage codé (Closed Captioning) pour les présentations vidéo.
 
-Les dispositifs mis en place sont indiqués sur le programme du mois.
+Un gilet vibrant peut être mis à disposition pour les concerts.
+
+Les dispositifs mis en place sont indiqués sur le programme mensuel.
 
 Certains espaces sont parfois bruyant.
 Nous disposons de salles de réunion que tout le monde est invité à utiliser.
@@ -114,7 +119,8 @@ Nous disposons d'un petit nombre de protège-oreilles pour les personnes qui ont
 ### <span class="img-2rem">![](assets/eye-slash.svg)</span><span class="img-2rem">![](assets/cane.svg)</span> Informations pour les personnes aveugles, malvoyantes et photosensibles.
 
 Les animaux d'assistance sont les bienvenus et de l'eau potable est à leur disposition.
-Le programme mensuel est disponible en braille et en version agrandie sur demande.
+
+Le programme mensuel est disponible en braille et en version agrandie à l'entrée du Lieu-Dit et sur demande.
 
 Les documents sont généralement disponibles en version agrandie.
 
@@ -124,8 +130,8 @@ Les versions MP3 audio et diagramme tactile ne sont généralement pas disponibl
 
 Un éclairage sans scintillement est utilisé dans tout le bâtiment. 
 
-!!! failure "non installé"
-    Des lampes LED supplémentaires sont à disposition dans le Bureau, sur demande. 
+!!! warning "en cours"
+    Des lampes LED supplémentaires avec température et puissance réglable, sont à disposition dans le Bureau, sur demande. 
 
 La Vitrine et l’Appartement ont de grandes baies vitrées, et ne disposent pas de stores réglables permettant de réduire l'éblouissement.
 

@@ -5,11 +5,13 @@
 - [ ] réglage de la temporisation de la lumière dans les toilettes
 - [ ] poubelles dans les toilettes
 - [ ] protections périodiques dans les toilettes
-- [ ] table pour changer bébé dans les toilettes du Foyer.
+- [ ] table pour changer bébé dans les toilettes du Foyer
 
 - [ ] EPI dans l'atelier
 
-- [ ] quelques couvertures et oreillers pour pouvoir prendre un peu de repos.
+- [ ] quelques couvertures et oreillers pour pouvoir prendre un peu de repos
+
+- [ ] balises sonores
 
 ## Équipement portatif d'ici l'été
 - [x] gilet vibrant

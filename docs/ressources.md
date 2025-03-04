@@ -6,7 +6,7 @@
 - interprétariat LSF : penser éclairage, ne pas cacher l'interprète
 - audiodescription
 - traduction dans d'autres langues
-- sous-titrage (codé)
+- sous-titrage (ou sous-titrage codé)
 
 [Plus de détails sur ces dispositifs ici](orgas/dispositifs.md).
 

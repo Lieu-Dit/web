@@ -19,7 +19,8 @@ Indiquez les dispositifs mis en place sur vos communications (flyers, réseaux, 
 ## Traduction dans d'autres langues
 ...
 
-## Sous-titrage (codé)
+## Sous-titrages
+Sous-titrage ou sous-titrage codé
 ...
 
 ## Gilet vibrant

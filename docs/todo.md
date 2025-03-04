@@ -16,8 +16,10 @@
 - [ ] chargeur 24V 8A
 
 ## À discuter
-- Sonnette à hauteur d'un fauteuil pour demander assistance
-- Nous disposons d'un système auditif portable à boucle d'induction compatible avec tous les utilisateurs d'appareils auditifs dotés d'un réglage T (bobine téléphonique). Notre système de boucle d'induction convient également à certaines personnes sourdes appareillées et malentendantes qui n'ont pas d'appareil auditif compatible avec l'induction, grâce à l'utilisation d'un récepteur portatif.
+- [ ] sonnette vidéo à l'entrée, à 90cm de haut, pour demander une aide humaine (besoin wifi ?)
+- Bandes d'interception aux entrées
+- [ ] Nous disposons d'un système auditif portable à boucle d'induction compatible avec tous les utilisateurs d'appareils auditifs dotés d'un réglage T (bobine téléphonique). Notre système de boucle d'induction convient également à certaines personnes sourdes appareillées et malentendantes qui n'ont pas d'appareil auditif compatible avec l'induction, grâce à l'utilisation d'un récepteur portatif.
+- [ ] wifi ?
 
 ## Communication, questions à poser pour programme
 - Légende pour programme
@@ -29,19 +31,19 @@
 ## Pour les grands travaux
 - boucle induction manétique (espace à choisir : théatre, foyer ? + récepteurs portatifs. voire malle chez AMH)
 
-- éclairage réglable : personnes photophobes, personnes sourdes aveugles Usher
+- Éclairage réglable : personnes photophobes, personnes sourdes aveugles Usher
 
-- bande d'interception rue Baccot
-- bande d'interception + bande de guidage depuis le passage piéton rue Fontgiève
+- Entrée : bande d'interception rue Baccot
+- Entrée : bande d'interception + bande de guidage depuis le passage piéton rue Fontgiève
+- Entrée : bande de guidage depuis le hall extérieur, galerie, foyer ?
 
-- entrée : interphone avec écran pour les sourds
-- entrée : sonnette à l'accueil (à hauteur pour une personne en fauteuil)
+- Entrée : interphone avec écran pour les sourds
+- Entrée : sonnette à l'accueil (à hauteur pour une personne en fauteuil)
 
-- entrée : bande d'interception aux deux entrées, bande de guidage dans le hall extérieur pour aller vitrine / bureau / hall intérieur
+- Sécurité : système d'alarme lumineux dans les toilettes et dans tout le bâtiment
 
-- sécurité : système d'alarme lumineux dans les toilettes et dans tout le bâtiment
-
-- ascenceur : équipement visionnage avec écran pour les sourds, en cas de panne
+- Ascenceur : équipement visionnage avec écran pour les sourds, en cas de panne
 
 - Tables, chaises, éviers, feux de cuisine, plans de travail, bar, toilettes accessibles aux personnes en fauteuil, personnes de petites tailles, enfants.
 
+- Toilettes : Changing Places Standard

@@ -52,7 +52,7 @@ padding: 2px;
     color: black;
 }
 
-p a{
+p a, .md-content li a{
     padding: 5px;
     background-color: #ffd17b;
     text-decoration: underline;
@@ -71,12 +71,16 @@ p a{
   height: 3rem;
 }
 
+.img-4rem img{
+  height: 4rem;
+}
+
 .lsf{
   line-height: 40px;
 }
 
-.lsf::before{
-  background-image: url("../assets/lsf.png");
+.lsf::after{
+  background-image: url("../assets/lsf-hands.svg");
   background-size: calc(129/174 * 40px) 40px;
   display: inline-block;
   width: calc(129/174 * 40px); 
@@ -105,4 +109,10 @@ p a{
   margin-right: 10px;
   position: relative;
   bottom: -10px;
+}
+
+.down-20 img{
+  margin-right: 10px;
+  position: relative;
+  bottom: -20px;
 }

@@ -1,4 +1,4 @@
-# Quelques points pour accueillir une personne déficiente visuelle
+# Quelques points pour accueillir une personne déficiente visuelle (DV)
 
 ## Présenter le plan tactile
 Montrer "où je suis" et les entrées et sorties.

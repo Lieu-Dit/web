@@ -1,22 +1,22 @@
 # Check matériel
 
-## disponible dans l'espace d'activité
-1. trousse de secours
-2. masques papier
-3. protections auditives (bouchons pour oreilles)
+## Disponible dans l'espace d'activité
+1. Trousse de secours
+2. Masques papier
+3. Protections auditives (bouchons pour oreilles)
+4. Point d'eau pour les animaux
 
-## disponible dans les toilettes
-- papier toilette
-- protections menstruelles : tampons, serviettes
-- poubelle 
--
+## Disponible dans les toilettes
+- Papier toilette, savon
+- Protections menstruelles : tampons, serviettes
+- Poubelle
 
-## affichage
-- signalétique programme LSF et braille
-- signalétique selon dispositifs mis en place
-- signalétique chien bienvenue
+## Affichage
+- Signalétique programme LSF et braille
+- Signalétique selon dispositifs mis en place
+- Signalétique chien bienvenue
 
-## disponible si besoin
-- gilet vibrant
-- lampe d'apoint 
-- chargeur 24V 8A pour les fauteuils électriques
+## Équipement disponible à la demande
+- Gilet vibrant
+- Lampe d'apoint 
+- Chargeur 24V 8A pour les fauteuils électriques

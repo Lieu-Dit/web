@@ -27,10 +27,10 @@ Flyers, plaquettes, documents de travail :
 
 ## Ressources sur place ou à imprimer
 - Fiches signalétiques pour annoncer les dispositifs à télécharger au [format ODT](assets/pictos.odt) et [format DOCX](assets/pictos.docx).
-- [Fiche à penser quand on accueille une personne DV](orgas/accueillir_dv.md)
-- [Fiche check matériel](orgas/materiel.md)
-- livret du collectif Les Dévalideuses [Accessibiliser un événement](https://lesdevalideuses.org/wp-content/uploads/2022/04/Guide_accessibiliser-un-evenement.pdf)
-- livret de l'association UNADEV [Accompagner et guider (PDF)](https://www.unadev.com/app/uploads/2024/11/plaquette-unadev-savoir-etre-savoir-guider-hd-1.pdf) et sa [version en gros caractères (PDF)](https://www.unadev.com/app/uploads/2024/11/plaquette-unadev-technique-de-guide-gros-caracteres-1.pdf)
+- Page mémo [Accueillir une personne déficiente visuelle (DV)](orgas/accueillir_dv.md)
+- Page mémo [Check matériel](orgas/materiel.md)
+- Livret du collectif Les Dévalideuses [Accessibiliser un événement](https://lesdevalideuses.org/wp-content/uploads/2022/04/Guide_accessibiliser-un-evenement.pdf)
+- Livret de l'association UNADEV [Accompagner et guider (PDF)](https://www.unadev.com/app/uploads/2024/11/plaquette-unadev-savoir-etre-savoir-guider-hd-1.pdf) et sa [version en gros caractères (PDF)](https://www.unadev.com/app/uploads/2024/11/plaquette-unadev-technique-de-guide-gros-caracteres-1.pdf)
 
 ## Rencontres, formations, accompagnement
 ...

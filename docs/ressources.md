@@ -11,15 +11,17 @@
 [Plus de détails sur ces dispositifs ici](orgas/dispositifs.md).
 
 ### Des personnes sur place
-Une personne référente sur les questions d'accessibilité
-  - pour répondre aux questions en amont et pendant l'événement
-  - pour accompagner les personnes qui en ont besoin, par exemple depuis l'arrêt de tram pour les personnes qui ne connaissent pas encore le Lieu-Dit.
-  - faire le lien avec l'équipe du Lieu-Dit et l'AALD sur des retours, besoins identifiés
+Une personne référente sur les questions d'accessibilité :
+
+- pour répondre aux questions en amont et pendant l'événement
+- pour accompagner les personnes qui en ont besoin, par exemple depuis l'arrêt de tram pour les personnes qui ne connaissent pas encore le Lieu-Dit.
+- faire le lien avec l'équipe du Lieu-Dit et l'AALD sur des retours, besoins identifiés
 
 La brigade du kiff du Bici Social Club peut vous accompagner sur ces questions.
 
 ### Des documents accessibles
-Flyers, plaquettes, documents de travail
+Flyers, plaquettes, documents de travail :
+
 - gros caractères, braille, vidéo LSF, numérique
 - fournir les documents en avance si possible
 

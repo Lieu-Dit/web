@@ -4,6 +4,7 @@
 ## <span class="img-2rem">![](assets/marker.svg)</span> Emplacement
 
 L’entrée principale du Lieu-Dit est au 10 rue Fontgiève, à Clermont-Ferrand (code postal 63000).
+
 L’entrée du Foyer du Lieu-Dit est rue Claude Baccot.
 
 *R Un rideau en fer peut fermer l’entrée rue Fontgiève. Le rideau est en 3 parties, et toutes ne sont pas ouvertes en même temps. Derrière le rideau il y a un Hall extérieur mais couvert. 
@@ -12,46 +13,55 @@ Depuis le Hall couvert il y a des accès vers le Hall intérieur, vers la Vitrin
 *D Il n’y a pas de sonnette.
 
 Il y a des espaces ouverts au public : le Foyer, la Vitrine, le Hall, le Théâtre, le Club.
+
 Il y a des espaces pour travailler : le Bureau, la Galerie, l’Appartement, l’Atelier, les Loges.
 
 
-## <span class="img-2rem">![](assets/marker.svg)</span> Aller au Lieu-Dit
+## <span class="img-2rem">![](assets/marker.svg)</span>Aller au Lieu-Dit
 
 
-### À pied ou à vélo
+### <span class="img-2rem">![](assets/bicycle.svg)</span>À pied ou à vélo
 Les vélos peuvent être garés de l’autre côté de la rue Fontgiève ou sur la place Gaillard.
-La rue Claude Baccot est pavée et se rejoint par la rue Fontgiève ou la rue Sainte-Claire (pavée aussi). Dans la rue Baccot et dans la rue Sainte-Claire,
-le trottoir est délimité seulement par des potelets, et il n’y a pas de trottoir : le sol est au même niveau que le passage des véhicules.
+
+La rue Claude Baccot est pavée et se rejoint par la rue Fontgiève ou la rue Sainte-Claire (pavée aussi). 
+
+Dans la rue Baccot et dans la rue Sainte-Claire, le trottoir est délimité seulement par des potelets, et il n’y a pas de trottoir : le sol est au même niveau que le passage des véhicules.
 
 *R Le trottoir de la rue Fontgiève fait xx cm de large, c’est un peu étroit lorsqu’il y a beaucoup de monde dans le Hall extérieur.
 
 
 ### En tram ou en bus
 Vous pouvez rejoindre l’arrêt « Gaillard » avec le tram A, le bus 5, le bus 32, et la navette du centre-ville.
+
 L’entrée principale (rue Fontgiève) est à 120m de l’arrêt de tram et à 60m de l’arrêt des bus 5 et 32.
+
 L’entrée du Foyer est à 180m de l’arrêt de tram et à 150m de l’arrêt des bus 5 et 32.
 
 
-### <span class="img-2rem">![](assets/car-side.svg)</span> En voiture
+### <span class="img-2rem">![](assets/car-side.svg)</span>En voiture
 Il n’y a des places de parking à proximité, et un parking souterrain place Gaillard.
+
 Il n’y a pas de place de parking large, réservée aux personnes en situation de handicap, à proximité. *R Plutôt dire où est la/les plus proches.
 
 
-## Accessibilité
-Vous trouverez ci-dessous des informations spécifiques concernant
-certains facteurs d'accessibilité de ce lieu. Contactez-nous si vous avez
-besoin d'informations supplémentaires.
+## <span class="img-2rem">![](assets/universal-access-2.svg)</span>Accessibilité
+Vous trouverez ci-dessous des informations spécifiques concernant certains facteurs d'accessibilité de ce lieu. Contactez-nous si vous avez besoin d'informations supplémentaires.
 
 
-### <span class="img-2rem">![](assets/info.svg) Informations générales</span>
+### <span class="img-2rem">![](assets/circle-info.svg)</span>Informations générales
 Des toilettes neutres sont disponibles :
+
 - Au rez-de-chaussée au Foyer, dans la Vitrine et dans le Bureau ;
 - Aux étages vers le Club et à côté de l’Appartement.
 
 Il s'agit de cabines individuelles dotées d'installations sanitaires. 
+
 Dans les toilettes du Foyer, une cabine est accessible aux personnes en fauteuil roulant.
+
 Les toilettes accessibles ne répondent pas aux normes de Changing Places Standard.
+
 Il y a une table pour changer bébé dans les toilettes du Foyer.
+
 Il y a des poubelles dans chaque cabine.
 
 Les aidants sont les bienvenus à tous les événements.
@@ -73,7 +83,7 @@ couverts, verres sont à disposition.
 Le réseau de téléphone ne passe pas toujours bien à l’intérieur des espaces. Il n’y a pas de connexion internet par WIFI à disposition.
 
 
-### <span class="img-2rem">![](assets/wheelchair.svg)</span> Informations pour les personnes avec un handicap moteur
+### <span class="img-2rem">![](assets/wheelchair.svg)</span>Informations pour les personnes avec un handicap moteur
 Les portes d'entrée ne sont pas motorisées. Ce sont des portes battantes. *R Cela peut être difficile pour les personnes en fauteuil roulant ou pour les personnes avec des troubles de la préhension.
 
 !!! failure "non installé"
@@ -84,10 +94,15 @@ Le sol du rez-de-chaussée est plat et convient à la plupart des fauteuils roul
 L’accès aux étages se fait par un escalier et empêche donc l’accès aux utilisateurs de fauteuils roulants au Théâtre, au Club, aux Loges et à l’Appartement.
 
 Les portes du rez-de-chaussée sont des portes de bureau standard, suffisamment larges pour les utilisateurs de fauteuils roulants.
+
 Les portes d’entrée principales font 180cm de large.
+
 La porte entre le Hall et la Galerie, et entre la Galerie et l’Atelier font 140cm de large.
+
 Les portes des toilettes du Foyer font 110cm de large.
+
 La porte d’entrée de la Vitrine fait 90cm de large.
+
 Les portes aux étages font 90cm de large.
 
 !!! warning "en cours"
@@ -96,7 +111,7 @@ Les portes aux étages font 90cm de large.
 À certains événements des canapés et des chaises sont à disposition.
 
 
-### <span class="img-2rem">![](assets/ear-deaf.svg)</span><span class="img-2rem">![](assets/lsf.png)</span> Informations pour les personnes sourdes, malentendantes et sensibles au son
+### <span class="img-2rem">![](assets/ear-deaf.svg)</span><span class="img-2rem">![](assets/lsf.png)</span>Informations pour les personnes sourdes, malentendantes et sensibles au son
 Il n’y a pas de boucle d’induction magnétique dans les espaces du Lieu-Dit.
 
 Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible.
@@ -111,12 +126,12 @@ Un gilet vibrant peut être mis à disposition pour les concerts.
 Les dispositifs mis en place sont indiqués sur le programme mensuel.
 
 Certains espaces sont parfois bruyant.
-Nous disposons de salles de réunion que tout le monde est invité à utiliser.
+Nous disposons d'une salle de réunion dans la Vitrine que tout le monde est invité à utiliser.
 
 Nous disposons d'un petit nombre de protège-oreilles pour les personnes qui ont besoin d'une protection auditive dans les situations sociales en raison de leur sensibilité au son.
 
 
-### <span class="img-2rem">![](assets/eye-slash.svg)</span><span class="img-2rem">![](assets/cane.svg)</span> Informations pour les personnes aveugles, malvoyantes et photosensibles.
+### <span class="img-2rem">![](assets/eye-slash.svg)</span><span class="img-2rem">![](assets/cane.svg)</span>Informations pour les personnes aveugles, malvoyantes et photosensibles.
 
 Les animaux d'assistance sont les bienvenus et de l'eau potable est à leur disposition.
 
@@ -125,7 +140,9 @@ Le programme mensuel est disponible en braille et en version agrandie à l'entr�
 Les documents sont généralement disponibles en version agrandie.
 
 Une embosseuse braille est à disposition des associations usagères. Les versions braille des documents peuvent être disponibles sur demande.
+
 Les versions CD audio, CD DAISY ne sont généralement pas disponibles.
+
 Les versions MP3 audio et diagramme tactile ne sont généralement pas disponibles, mais peuvent l'être sur demande.
 
 Un éclairage sans scintillement est utilisé dans tout le bâtiment. 
@@ -143,11 +160,15 @@ Il n’y a pas de bande de guidage entre les différents espaces, notamment dans
     Il y a une balise sonore à l’entrée principale rue Fontgiève, et à l’entrée du Foyer rue Claude Baccot.
 
 Dans le Foyer des grandes marches forment un gradin qui donne sur un petit espace plus bas. Des marches permettent d’y descendre. Il n’y a pas de rampe.
+
 L’accès aux étages se fait par un escalier avec des marches alternativement blanches et noires. Une rampe est présente mais s’arrête avant la dernière marche.
 
 Il y a une volée de marches *R (avec ou sans rampe ?) puis une petite pente pour monter au Théâtre.
+
 Il y a quelques marches le long du couloir pour aller au Club, *R (avec ou sans rampe ?). Les toilettes sont le long de ce couloir.
+
 Il y a une volée de marches pour descendre dans les Loges.
+
 Il y a un grand escalier pour aller à l’Appartement *R (avec ou sans rampe ?).
 
 
@@ -160,6 +181,7 @@ Il n’y a pas de système de climatisation.
 
 !!! failure "non installé"
     Des détecteurs de dioxyde de carbone (CO2) pour contrôler la qualité de l’air sont présents :
+
     - au Foyer
     - dans la Vitrine
     - au Club
@@ -169,15 +191,16 @@ Des masques en papier sont à disposition sur demande, dans le Bureau.
 Des masques de sécurité FFP2 et de masques à particules sont à disposition sur demande, dans l’Atelier.
 
 
-### Informations sur les premiers secours
+### <span class="img-2rem">![](assets/briefcase-medical.svg)</span>Informations sur les premiers secours
 
-!!! warning "en cours d'installation "
+!!! warning "en cours d'installation"
     Des trousses de premiers secours sont à disposition :
+
     - dans la cuisine du Foyer, bien en vue sur le mur, dans un sac en tissu vert.
     - dans la Vitrine
     - dans le Bureau à la demande
 
-Un défibrillateur est à disposition, à l’entrée rue Fontgiève. Lorsque le rideau en fer est fermé, le défibrillateur n’est pas accessible.
+<span class="img-2rem middle">![](assets/heart-circle-bolt.svg)</span>Un défibrillateur est à disposition, à l’entrée rue Fontgiève. Lorsque le rideau en fer est fermé, le défibrillateur n’est pas accessible.
 
 En cas d'urgence concernant des personnes, vous devez appeler le 15 à partir du téléphone du bureau ou d'un téléphone portable. L'adresse est 10 rue Fontgiève, Clermont-Ferrand ou rue Claude Baccot, Clermont-Ferrand pour le Foyer.
 

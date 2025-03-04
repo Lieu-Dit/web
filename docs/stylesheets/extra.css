@@ -88,3 +88,21 @@ p a{
 {
   text-decoration: underline;
 }
+
+.md-typeset h2 img{
+  margin-right: 10px;
+  /* position: relative; */
+  /* bottom: -10px; */
+}
+
+.md-typeset h3 img{
+  margin-right: 10px;
+  position: relative;
+  bottom: -10px;
+}
+
+.middle img{
+  margin-right: 10px;
+  position: relative;
+  bottom: -10px;
+}

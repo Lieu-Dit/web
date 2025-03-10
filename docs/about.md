@@ -8,3 +8,9 @@ La fiche est réutilisable pour un usage non-commercial et sous licence [Creativ
 Lors des rencontres au Lieu-Dit l'interprétariat français - Langue des Signes Française (LSF) a été fait par : Roxane Garinot ([Et Alors Interprétation](https://www.etalorsils.fr/)) et Lise Rambourdin ([liserambourdininterprete.fr](https://www.liserambourdininterprete.fr/)).
 
 Vous pouvez retrouver les documents de travaux du projet.
+
+## Police et icônes utilisées
+
+La police utilisée [Luciole](https://luciole-vision.com/) est conçue spécifiquement pour les personnes malvoyantes, par Laurent Bourcellier et Jonathan Perez. Elle est sous licence [Creative Commons BY v4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
+
+Les icônes utilisées

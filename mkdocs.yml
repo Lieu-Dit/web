@@ -24,22 +24,22 @@ theme:
 nav:
   - C'est quoi ?: index.md
   - <span class="lsf braille">C'est quoi ? LSF</span>: lieu-dit-lsf.md 
-  - Programme:
-    - En papier et braille: prog-infos.md
-    - <span class="lsf">Programme LSF</span>: prog-lsf.md
-    - Sur le site internet "Pommes de Lune": https://pommesdelune.fr/place/2-le-lieu-dit
   - Accessibilité: 
     - Fiche Accessibilité: access.md
     - <span class="lsf">Fiche Accessibilité LSF</span>: access-lsf.md 
     - Où trouver la fiche ?: access-infos.md
     - Photographies: photos.md
     - Travail en cours: todo.md
-  - Pour les orgas: 
-    - ressources.md
-    - Ressources:
-      - orgas/dispositifs.md
-      - orgas/accueillir-dv.md
-      - orgas/materiel.md
+    - Pour les orgas: 
+      - ressources.md
+      - Ressources:
+        - orgas/dispositifs.md
+        - orgas/accueillir-dv.md
+        - orgas/materiel.md
+  - Programme:
+    - En papier et braille: prog-infos.md
+    - <span class="lsf">Programme LSF</span>: prog-lsf.md
+    - Sur le site internet "Pommes de Lune": https://pommesdelune.fr/place/2-le-lieu-dit
   - À propos: about.md
 
 #markdown_extensions:

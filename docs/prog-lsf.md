@@ -22,7 +22,10 @@
     </p>
   </video>
  
-<ul id="lsf-03-25"></ul>
+## Remerciements
+
+Merci à Carole et Fabienne pour les vidéos LSF du programme !
+
 
 <script src="https://vjs.zencdn.net/8.16.1/video.min.js"></script>
 

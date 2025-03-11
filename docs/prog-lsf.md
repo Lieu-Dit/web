@@ -28,7 +28,7 @@
 
 <script>
     document.getElementsByClassName("vjs-no-js")[0].style.display = "none";
-    const baseUrl = ""
+    const baseUrl = "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files="
     
     const player = videojs("my-video", {responsive: true});
 

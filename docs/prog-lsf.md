@@ -33,7 +33,7 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
     document.getElementsByClassName("vjs-no-js")[0].style.display = "none";
     const baseUrl = "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files="
     
-    const player = videojs("my-video", {responsive: true});
+    const player = videojs("my-video", {responsive: true, fluid: true});
 
     let playlist = [
     {

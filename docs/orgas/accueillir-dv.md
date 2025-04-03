@@ -13,7 +13,7 @@ Montrer "où je suis" et les entrées et sorties.
 
 - Dire quand on part ailleurs.
 - Présenter le plan d'orientation.
-- Ne pas trop verbaliser sur comment est le trajet (annoncer trop de détails : le nombres de portes, volée d'escaliers) ; donner les informations utiles pour la sécurité, l'autonomie, les interactions sociales.
+<!-- - Ne pas trop verbaliser sur comment est le trajet (annoncer trop de détails : le nombres de portes, volée d'escaliers) ; donner les informations utiles pour la sécurité, l'autonomie, les interactions sociales. -->
 - Indiquer où sont les toilettes et la sortie dans un contexte assis (spectacle, réunion, repas...).
 - Utiliser un langage normal (par exemple l'expression "tu vois ?") et une tonalité normale.
 

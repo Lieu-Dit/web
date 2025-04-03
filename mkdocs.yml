@@ -38,6 +38,7 @@ nav:
         - orgas/materiel.md
   - Programme:
     - En papier et braille: prog-infos.md
+    - A télécharger: prog.md
     - <span class="lsf">Programme LSF</span>: prog-lsf.md
     - Sur le site internet "Pommes de Lune": https://pommesdelune.fr/place/2-le-lieu-dit
   - À propos: about.md

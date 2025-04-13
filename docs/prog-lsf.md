@@ -1,7 +1,7 @@
 # <span class="middle img-3rem">![](assets/lsf.png)</span>Programmes en Langue des signes française (LSF)
 
-## Mars 2025
-<ul id="lsf-03-25"></ul>
+## Avril 2025
+<ul id="lsf-04-25"></ul>
 
 <link href="stylesheets/video-js.css" rel="stylesheet" />
 <link href="stylesheets/extra.video-js.css" rel="stylesheet" />
@@ -26,43 +26,18 @@
 
 Merci à Carole et Fabienne pour les vidéos LSF du programme !
 
+## Programmes précédents
+
+### Mars
+<ul id="lsf-03-25"></ul>
 
 <script src="https://vjs.zencdn.net/8.16.1/video.min.js"></script>
-
+<script src="programme/programme-lsf.js"></script>
 <script>
     document.getElementsByClassName("vjs-no-js")[0].style.display = "none";
-    const baseUrl = "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files="
-    
+<!--     const baseUrl = "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files=" -->
     const player = videojs("my-video", {responsive: true, fluid: true});
-
-    let playlist = [
-    {
-        title: "Jeudi 13 mars",
-        url: "01 Jeudi 13 mars.mp4",
-    },
-    {
-        title: "Samedi 22 mars",
-        url: "02 Samedi 22 mars.mp4",
-    },
-    {
-        title: "Mercredi 26 mars",
-        url: "03 Mercredi 26 mars.mp4",
-    },
-    {
-        title: "Jeudi 27 mars",
-        url: "04 Jeudi 27 mars.mp4",
-    },
-    {
-        title: "Samedi 29 mars",
-        url: "05 Samedi 29 mars.mp4",
-    },
-    {
-        title: "Mercredi 19, 26 mars",
-        url: "06 Mercredi 19, 26 mars.mp4",
-    }
-    ];
-
-    function populate_list (data, elemId) {
+    function populate_list (data, elemId, baseUrl) {
         elem = document.getElementById(elemId)
         let i = 0;
         for (let item of data) {
@@ -75,9 +50,6 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
             item.title+'</button></li>');
         }
     }
-    function populate_playlist () {
-        populate_list(playlist, "lsf-03-25");
-    }
     function doo (e,url) {
         player.pause()
         player.src(url)
@@ -85,13 +57,15 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
         player.play()
         // add class "active" to item
         if (e != null) {
-            elem = document.getElementById("lsf-03-25")
+            elem = document.getElementById("lsf-04-25")
             for (let b of elem.children) {
                 b.firstElementChild.classList.remove("active")
             }
             e.classList.add("active")
             }
     }
-    populate_playlist();
-    doo(null, baseUrl + playlist[0].url)
+    populate_list(playlist_04_2025, "lsf-04-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=");
+    populate_list(playlist_03_2025, "lsf-03-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files=");
+    
+    doo(null, "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=" + playlist_04_2025[0].url)
 </script>

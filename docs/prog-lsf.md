@@ -73,5 +73,5 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
     populate_list(playlist_05_2025, "lsf-05-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmai2025&files=");
     populate_list(playlist_04_2025, "lsf-04-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=");
     populate_list(playlist_03_2025, "lsf-03-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files=");
-    doo(null, "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=" + playlist_05_2025[0].url)
+    doo(null, "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmai2025&files=" + playlist_05_2025[0].url)
 </script>

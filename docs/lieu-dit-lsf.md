@@ -2,4 +2,4 @@
 
 Espace d'expérimentations culturelles, sociales et citoyennes à Clermont-Ferrand.
 
-vidéo LSF bientôt
+Une vidéo LSF bientôt...

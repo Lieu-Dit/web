@@ -1,5 +1,7 @@
 # Fiche Accessibilité
 
+!!! note ""
+    Page mise à jour le 8 mai 2025
 
 ## <span class="img-2rem">![](assets/marker.svg)</span> Emplacement
 

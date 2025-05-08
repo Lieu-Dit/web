@@ -1,4 +1,6 @@
 # Equipements et services en discussion
+!!! note ""
+    Page mise à jour le 8 mai 2025
 
 ## Faire d'ici l'été
 - [ ] patères et poignée dans les toilettes : à 1,30 mètres pour les personnes grandes + à 0,90m pour les fauteuils et les personnes petites. précisez dans la fiche où elles sont (par ex sur chaque porte)
@@ -9,14 +11,17 @@
 
 - [ ] EPI dans l'atelier
 
+- [ ] capteurs de qualité de l'air
+
 - [ ] quelques couvertures et oreillers pour pouvoir prendre un peu de repos
 
 - [ ] balises sonores
 
 ## Équipement portatif d'ici l'été
-- [x] gilet vibrant
-- [ ] lampes LED d'appoint (température et puissance réglable)
-- [ ] chargeur 24V 8A
+- [x] gilets vibrants
+- [x] lampes LED d'appoint (température et puissance réglable)
+- [x] chargeur 24V 8A
+- [x] purificateurs d'air
 
 ## À discuter
 - [ ] sonnette vidéo à l'entrée, à 90cm de haut, pour demander une aide humaine (besoin wifi ?)

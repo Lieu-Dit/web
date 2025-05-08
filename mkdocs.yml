@@ -1,5 +1,5 @@
 # mkdocs.yml
-site_name: Lieu-Dit
+site_name: Le Lieu-Dit
 site_description: Page accessibilité du Lieu-Dit
 site_url: ""
 use_directory_urls: false
@@ -10,9 +10,8 @@ extra_css:
 theme: 
   name: material
   language: fr
-  icon:
-    logo: material/human
-  #favicon: images/favicon.png
+  favicon: assets/logo/Lieu-dit-noir.png
+  logo: assets/logo/Lieu-dit-noir.png
   features:
     #- navigation.tabs
     #- navigation.tabs.sticky

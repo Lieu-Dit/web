@@ -1,7 +1,7 @@
 # <span class="middle img-3rem">![](assets/lsf.png)</span>Programmes en Langue des signes française (LSF)
 
-## Avril 2025
-<ul class="playlist_lsf" id="lsf-04-25"></ul>
+## Mai 2025
+<ul class="playlist_lsf" id="lsf-05-25"></ul>
 
 <link href="stylesheets/video-js.css" rel="stylesheet" />
 <link href="stylesheets/extra.video-js.css" rel="stylesheet" />
@@ -28,6 +28,9 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
 
 ## Programmes précédents
 
+### Avril
+<ul class="playlist_lsf" id="lsf-04-25"></ul>
+
 ### Mars
 <ul class="playlist_lsf" id="lsf-03-25"></ul>
 
@@ -35,7 +38,6 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
 <script src="programme/programme-lsf.js"></script>
 <script>
     document.getElementsByClassName("vjs-no-js")[0].style.display = "none";
-<!--     const baseUrl = "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files=" -->
     const player = videojs("my-video", {responsive: true, fluid: true});
     function populate_list (data, elemId, baseUrl) {
         elem = document.getElementById(elemId)
@@ -68,7 +70,8 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
             }
         }
     }
+    populate_list(playlist_05_2025, "lsf-05-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmai2025&files=");
     populate_list(playlist_04_2025, "lsf-04-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=");
     populate_list(playlist_03_2025, "lsf-03-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files=");
-    doo(null, "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=" + playlist_04_2025[0].url)
+    doo(null, "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=" + playlist_05_2025[0].url)
 </script>

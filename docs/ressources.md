@@ -3,10 +3,10 @@
 ## Ce qu'on peut anticiper proposer
 
 ### Des dispositifs techniques ou humains
-- interprétariat LSF : penser éclairage, ne pas cacher l'interprète
+- interprétation LSF : penser éclairage, ne pas cacher l'interprète
 - audiodescription
 - traduction dans d'autres langues
-- sous-titrage (ou sous-titrage codé)
+- sous-titrage (ou sous-titrage codé pour sourds et malentendants)
 
 [Plus de détails sur ces dispositifs ici](orgas/dispositifs.md).
 
@@ -17,7 +17,7 @@ Une personne référente sur les questions d'accessibilité :
 - pour accompagner les personnes qui en ont besoin, par exemple depuis l'arrêt de tram pour les personnes qui ne connaissent pas encore le Lieu-Dit.
 - faire le lien avec l'équipe du Lieu-Dit et l'AALD sur des retours, besoins identifiés
 
-La brigade du kiff du Bici Social Club peut vous accompagner sur ces questions.
+<!-- La brigade du kiff du Bici Social Club peut vous accompagner sur ces questions. -->
 
 ### Des documents accessibles
 Flyers, plaquettes, documents de travail :

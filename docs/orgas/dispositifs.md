@@ -6,7 +6,7 @@ N'hésitez pas à demander conseil à l'équipe du Lieu-Dit ou aux différentes 
 
 Indiquez les dispositifs mis en place sur vos communications (flyers, réseaux, programme du mois Lieu-Dit).
 
-## Interprétariat LSF : 
+## Interprétation LSF : 
 
 ### Remarques
 - Bien éclairer l'interprète
@@ -24,7 +24,7 @@ Sous-titrage ou sous-titrage codé
 ...
 
 ## Gilet vibrant
-Un gilet vibrant est mis à disposition des organisateurices.
+Des gilets vibrants sont mis à disposition des organisateurices.
 
 ## Autres:
 

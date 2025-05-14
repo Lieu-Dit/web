@@ -5,7 +5,7 @@ Les documents présentés ici ont été réalisé pour le Lieu-Dit sur la base d
 La fiche Accessibilité a été créée en s’appuyant sur la [page web Accessibilité du Centre de Ressources Trans de Belfast](https://belfasttrans.org.uk/about/access).
 La fiche est réutilisable pour un usage non-commercial et sous licence [Creative Commons BY-NC-SA v4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Lors des rencontres au Lieu-Dit l'interprétation français - Langue des Signes Française (LSF) a été fait par : Roxane Garinot ([Et Alors Interprétation](https://www.etalorsils.fr/)) et Lise Rambourdin ([liserambourdininterprete.fr](https://www.liserambourdininterprete.fr/)).
+Lors des rencontres au Lieu-Dit l'interprétation français - Langue des Signes Française (LSF) a été faite par : Roxane Garinot ([Et Alors Interprétation](https://www.etalorsils.fr/)) et Lise Rambourdin ([liserambourdininterprete.fr](https://www.liserambourdininterprete.fr/)).
 
 Vous pouvez retrouver les documents de travaux du projet.
 
@@ -13,4 +13,4 @@ Vous pouvez retrouver les documents de travaux du projet.
 
 La police utilisée [Luciole](https://luciole-vision.com/) est conçue spécifiquement pour les personnes malvoyantes, par Laurent Bourcellier et Jonathan Perez. Elle est sous licence [Creative Commons BY v4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
-Les icônes utilisées
+<!-- Les icônes utilisées -->

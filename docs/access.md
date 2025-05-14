@@ -139,7 +139,7 @@ Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible.
 
 Certains événements ou spectacles bilingues font appel à des interprètes en langue des signes française (LSF) ou mettent en place le sous-titrage codé (Closed Captioning) pour les présentations vidéo.
 
-Un gilet vibrant peut être mis à disposition pour les concerts.
+Des gilets vibrants peuvent être mis à disposition pour les concerts.
 
 Les dispositifs mis en place sont indiqués sur le programme mensuel.
 
@@ -209,7 +209,7 @@ Nous ne disposons pas de jouets sensoriels.
 ### Informations pour les personnes souffrant d'allergies graves ou immunodéprimées
 Il n’y a pas de système de climatisation.
 
-!!! note "Lampe d'appoint"
+!!! note "Purificateurs d'air"
     Deux purificateurs d'air sont à disposition sur demande et peuvent être installés dans les différents espaces.
 
 !!! warning "en cours"

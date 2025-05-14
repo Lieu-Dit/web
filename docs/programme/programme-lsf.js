@@ -8,6 +8,10 @@ let playlist_05_2025 = [
         url: "02 Mercredi 14 mai 2025.mp4",
     },
     {
+        title: "Jeudi 15 et Jeudi 22 mai",
+        url: "02b Jeudis 15 et 22 mai.mp4",
+    },
+    {
         title: "Samedi 17 mai 2025",
         url: "03 Samedi 17 mai 2025.mp4",
     },

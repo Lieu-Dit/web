@@ -1,7 +1,7 @@
 # Fiche Accessibilité
 
 !!! note ""
-    Page mise à jour le 8 mai 2025
+    Page mise à jour le 14 mai 2025
 
 ## <span class="img-2rem">![](assets/marker.svg)</span> Emplacement
 
@@ -80,16 +80,16 @@ Il y a des poubelles dans chaque cabine.
 !!! warning "en cours"
     Il y a des protections périodiques à disposition dans les toilettes.
     Il y a des poubelles dans les toilettes.
-    Il y a des patères dans les toilettes, à 90cm de haut et à 130cm de haut. *R précisez où.
+    Il y a des patères dans les toilettes, derrière les portes, à 90cm de hauteur, à 130cm de hauteur, et à 150cm de hauteur.
 
 <span class="middle img-2rem">![](assets/people-simple.svg)</span>Les aidants sont les bienvenus à tous les événements.
 
-<span class="middle img-2rem">![](assets/dog-leashed.svg)</span>Les animaux d'assistance sont les bienvenus et de l'eau potable est disponible. *S Où / comment ?
+<span class="middle img-2rem">![](assets/dog-leashed.svg)</span>Les chiens guides et les animaux d'assistance sont les bienvenus et de l'eau potable est disponible.
 
 <span class="middle img-2rem">![](assets/temperature-low.svg)</span>Le bâtiment est généralement peu chauffé. Pour les chaudes journées d'été, il garde bien le frais notamment au Foyer et dans la Galerie.
 
 !!! warning "en cours"
-    Des couvertures et des oreillers sont également à disposition des personnes qui souhaitent se reposer en raison de la fatigue ou d'un handicap.
+    Des couvertures et des oreillers sont également à disposition des personnes qui souhaitent se reposer en raison de la fatigue ou d'un handicap. Elles sont stockées dans le Foyer, dans le caisson en bois près des marches qui descendent.
 
 <span class="middle img-2rem">![](assets/plate-utensils.svg)</span>Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier n’a qu’un bac. Des ustensiles de cuisine et des assiettes, couverts, verres sont à disposition.
 L'eau chaude est stockée dans un ballon, attention à l'économiser.
@@ -123,7 +123,7 @@ La porte d’entrée de la Vitrine fait 90cm de large.
 
 Les portes aux étages font 90cm de large.
 
-!!! warning "en cours"
+!!! note "Chargeur fauteuil électrique"
     Nous disposons d'un chargeur 24 V 8 A qui convient à la plupart des fauteuils électriques et des scooters de mobilité. Vous pouvez recharger votre équipement à l'aide de ce chargeur ou de votre propre chargeur.
 
 À certains événements des canapés, des chaises, des tables pliantes sont à disposition.
@@ -143,7 +143,7 @@ Un gilet vibrant peut être mis à disposition pour les concerts.
 
 Les dispositifs mis en place sont indiqués sur le programme mensuel.
 
-Certains espaces sont parfois bruyant.
+Certains espaces sont parfois bruyants.
 Nous disposons d'une salle de réunion dans la Vitrine que tout le monde est invité à utiliser.
 
 Nous disposons d'un petit nombre de protège-oreilles pour les personnes qui ont besoin d'une protection auditive dans les situations sociales en raison de leur sensibilité au son.
@@ -151,13 +151,16 @@ Nous disposons d'un petit nombre de protège-oreilles pour les personnes qui ont
 
 ### <span class="img-2rem">![](assets/eye-slash.svg)</span><span class="img-2rem">![](assets/cane.svg)</span>Informations pour les personnes aveugles, malvoyantes et photosensibles.
 
-Les animaux d'assistance sont les bienvenus et de l'eau potable est à leur disposition.
+Les chiens guides et les animaux d'assistance sont les bienvenus et de l'eau potable est à leur disposition.
 
-Le programme mensuel est disponible en braille et en version agrandie à l'entrée du Lieu-Dit et sur demande.
+!!! note "Programme mensuel en braille et gros caractères"
+    Le programme mensuel en gros caractères est affiché à l'entrée du Lieu-Dit.
+    Le programme mensuel est disponible en braille et en version gros caractères sur demande.
 
-Les documents sont généralement disponibles en version agrandie.
+Les documents sont généralement disponibles en version gros caractères.
 
-Une embosseuse braille est à disposition des associations usagères. Les versions braille des documents peuvent être disponibles sur demande.
+!!! note "Embosseuse braille"
+    Une embosseuse braille est à disposition des associations usagères. Les versions braille des documents peuvent être disponibles sur demande.
 
 Les versions CD audio, CD DAISY ne sont généralement pas disponibles.
 
@@ -165,8 +168,8 @@ Les versions MP3 audio et diagramme tactile ne sont généralement pas disponibl
 
 Un éclairage sans scintillement est utilisé dans tout le bâtiment. 
 
-!!! warning "en cours"
-    Des lampes LED supplémentaires avec température et puissance réglable, sont à disposition dans le Bureau, sur demande. 
+!!! note "Lampe d'appoint"
+    Une lampe LED supplémentaire avec température et puissance réglable, est à disposition dans le Bureau, sur demande. 
 
 La Vitrine et l’Appartement ont de grandes baies vitrées, et ne disposent pas de stores réglables permettant de réduire l'éblouissement.
 
@@ -179,7 +182,12 @@ Il n'y a pas de bande d'interception aux entrées rue Fontgiève ou rue Claude B
 
 A l'entrée rue Fontgiève, le hall extérieur abrité est très sombre.
 
-Il n’y a pas de bande de guidage entre les différents espaces, notamment dans la Galerie qui est très vaste et permet de se diriger dans le Hall, au Foyer ou dans l’Atelier.
+!!! warning "en cours"
+    Les encadrements de porte, les mains courantes des escaliers sont contrastées.
+    Les éléments des toilettes et sanitaires sont contrastés.
+
+!!! warning "en cours d'installation"
+    Il y a une bande de guidage dans la Galerie, qui relie l'entrée du Foyer, l'entrée du Hall et l'entrée de l'Atelier.
 
 Dans le Foyer des grandes marches forment un gradin qui donne sur un petit espace plus bas. Des marches permettent d’y descendre. Il n’y a pas de rampe.
 
@@ -201,7 +209,10 @@ Nous ne disposons pas de jouets sensoriels.
 ### Informations pour les personnes souffrant d'allergies graves ou immunodéprimées
 Il n’y a pas de système de climatisation.
 
-!!! failure "non installé"
+!!! note "Lampe d'appoint"
+    Deux purificateurs d'air sont à disposition sur demande et peuvent être installés dans les différents espaces.
+
+!!! warning "en cours"
     Des détecteurs de dioxyde de carbone (CO2) pour contrôler la qualité de l’air sont présents :
 
     - au Foyer
@@ -215,7 +226,7 @@ Des masques de sécurité FFP2 et de masques à particules sont à disposition s
 
 ### <span class="img-2rem">![](assets/briefcase-medical.svg)</span>Informations sur les premiers secours
 
-!!! warning "en cours d'installation"
+!!! warning "en cours"
     Des trousses de premiers secours sont à disposition :
 
     - dans la cuisine du Foyer, bien en vue sur le mur, dans un sac en tissu vert.

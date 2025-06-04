@@ -70,8 +70,13 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
             }
         }
     }
-    populate_list(playlist_05_2025, "lsf-05-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmai2025&files=");
-    populate_list(playlist_04_2025, "lsf-04-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Favril2025&files=");
-    populate_list(playlist_03_2025, "lsf-03-25", "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmars2025&files=");
-    doo(null, "https://cloud.laucarre.com/s/LD-LSF-prog/download?path=%2Fmai2025&files=" + playlist_05_2025[0].url)
+    function getdirname(mm,yyyy){
+        mm = (mm < 10) ? '0' + mm.toString() : mm.toString();
+        const base = "https://cloud.laucarre.com/s/LD-LSF-prog/"
+        return base+"download?path=%2F"+yyyy+"_"+mm+"&files="
+    }
+    populate_list(playlist_05_2025, "lsf-05-25", getdirname(05,2025));
+    populate_list(playlist_04_2025, "lsf-04-25", getdirname(04,2025));
+    populate_list(playlist_03_2025, "lsf-03-25", getdirname(03,2025));
+    doo(null, getdirname(05,2025) + playlist_05_2025[0].url)
 </script>

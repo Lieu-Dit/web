@@ -22,7 +22,7 @@ theme:
 
 nav:
   - C'est quoi ?: index.md
-  - <span class="lsf braille">C'est quoi ? LSF</span>: lieu-dit-lsf.md 
+  - <span class="lsf braille">C'est quoi ? LSF</span>: index-lsf.md 
   - Accessibilité: 
     - Fiche Accessibilité: access.md
     - <span class="lsf">Fiche Accessibilité LSF</span>: access-lsf.md 

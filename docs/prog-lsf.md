@@ -1,7 +1,7 @@
 # <span class="middle img-3rem">![](assets/lsf.png)</span>Programmes en Langue des signes française (LSF)
 
-## Mai 2025
-<ul class="playlist_lsf" id="lsf-05-25"></ul>
+## Juin 2025
+<ul class="playlist_lsf" id="lsf-06-25"></ul>
 
 <link href="stylesheets/video-js.css" rel="stylesheet" />
 <link href="stylesheets/extra.video-js.css" rel="stylesheet" />
@@ -27,6 +27,9 @@
 Merci à Carole et Fabienne pour les vidéos LSF du programme !
 
 ## Programmes précédents
+
+### Mai
+<ul class="playlist_lsf" id="lsf-05-25"></ul>
 
 ### Avril
 <ul class="playlist_lsf" id="lsf-04-25"></ul>
@@ -75,8 +78,9 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
         const base = "https://cloud.laucarre.com/s/LD-LSF-prog/"
         return base+"download?path=%2F"+yyyy+"_"+mm+"&files="
     }
+    populate_list(playlist_06_2025, "lsf-06-25", getdirname(06,2025));
     populate_list(playlist_05_2025, "lsf-05-25", getdirname(05,2025));
     populate_list(playlist_04_2025, "lsf-04-25", getdirname(04,2025));
     populate_list(playlist_03_2025, "lsf-03-25", getdirname(03,2025));
-    doo(null, getdirname(05,2025) + playlist_05_2025[0].url)
+    doo(null, getdirname(05,2025) + playlist_06_2025[0].url)
 </script>

@@ -1,3 +1,27 @@
+let playlist_06_2025 = [
+    {
+        title: "Du 1er au 9 juin",
+        url:"01 1er au 9 juin.mp4"
+    },
+    {
+        title:"Jeudi 5 juin",
+        url: "02 Jeudi 5 juin.mp4"
+
+    },
+    {
+        title: "Lundi 16 juin",
+        url: "03 Lundi 16 juin.mp4"
+    },
+    {
+        title: "Vendredi 20 juin",
+        url: "04 Vendredi 20 juin.mp4"
+    },
+    {
+        title: "Du 27 au 29 juin.mp4",
+        url: "05 27 au 29 juin.mp4"
+    },
+
+]
 let playlist_05_2025 = [
     {
         title: "Lundi 12 mai 2025",

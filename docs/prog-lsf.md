@@ -1,5 +1,13 @@
 # <span class="middle img-3rem">![](assets/lsf.png)</span>Programmes en Langue des signes française (LSF)
 
+## Juillet 2025
+
+## Jeudi 3 Juillet 18h
+[Lien Video LSF](http://agenda.unadev.com/wp-content/uploads/2025/06/jeudi-3-juillet-Lieu-Dit-atelier-air-et-pot-fin-de-chantier.mp4)
+
+## 12, 18, 19, 26 juillet
+Vidéos bientôt !
+
 ## Juin 2025
 <ul class="playlist_lsf" id="lsf-06-25"></ul>
 

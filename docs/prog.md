@@ -1,5 +1,10 @@
 # Télécharger le programme accessible, gros caractères
 
+## Juillet 2025
+- [Programme juillet 2025 - PDF](programme/2025/Programme%20Lieu-Dit%20juillet%202025.pdf)
+- [Programme juillet 2025 - Libre Office](programme/2025/Programme%20Lieu-Dit%20juillet%202025.odt)
+- [Programme juillet 2025 - Word](programme/2025/Programme%20Lieu-Dit%20juillet%202025.docx)
+
 ## Juin 2025
 - [Programme juin 2025 - PDF](programme/2025/Programme%20Lieu-Dit%20juin%202025.pdf)
 - [Programme juin 2025 - Libre Office](programme/2025/Programme%20Lieu-Dit%20juin%202025.odt)

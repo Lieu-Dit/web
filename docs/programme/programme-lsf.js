@@ -1,3 +1,32 @@
+
+let playlist_10_2025 = [
+    {
+        title: "Jeudi 2 octobre",
+        url:"01 jeudi 2 octobre.mp4"
+    },
+]
+let playlist_09_2025 = [
+    {
+        title: "Mardi 16 septembre",
+        url:"01 mardi 16 septembre.mp4"
+    },
+    {
+        title: "Samedi 20 septembre",
+        url: "02 samedi 20 septembre.mp4"
+    },
+    {
+        title: "Samedi 20 septembre soir",
+        url: "03 samedi 20 septembre soir.mp4"
+    },
+    {
+        title: "Samedi 27 septembre",
+        url: "04 samedi 27 septembre.mp4"
+    },
+    {
+        title: "Dimanche 28 septembre",
+        url: "05 dimanche 28 septembre.mp4"
+    },
+]
 let playlist_06_2025 = [
     {
         title: "Du 1er au 9 juin",

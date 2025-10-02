@@ -1,13 +1,13 @@
 # Equipements et services en discussion
 !!! note ""
-    Page mise à jour le 8 mai 2025
+    Page mise à jour le 1er octobre 2025
 
-## Faire d'ici l'été
-- [ ] patères et poignée dans les toilettes : à 1,30 mètres pour les personnes grandes + à 0,90m pour les fauteuils et les personnes petites. précisez dans la fiche où elles sont (par ex sur chaque porte)
+## Faire d'ici l'hiver
+- [x] patères et poignée dans les toilettes : à 1,30 mètres pour les personnes grandes + à 0,90m pour les fauteuils et les personnes petites. précisez dans la fiche où elles sont (par ex sur chaque porte)
 - [ ] réglage de la temporisation de la lumière dans les toilettes
-- [ ] poubelles dans les toilettes
+- [x] poubelles dans les toilettes
+- [x] table pour changer bébé dans les toilettes du Foyer
 - [ ] protections périodiques dans les toilettes
-- [ ] table pour changer bébé dans les toilettes du Foyer
 
 - [ ] EPI dans l'atelier
 
@@ -15,19 +15,24 @@
 
 - [ ] quelques couvertures et oreillers pour pouvoir prendre un peu de repos
 
-- [ ] balises sonores
+- [x] balises sonores
+- [x] plan tactile au Foyer
+- [ ] plan tactile dans le Hall
 
-## Équipement portatif d'ici l'été
+- [x] Wifi dans le Foyer
+
+
+## Équipement portatif 
 - [x] gilets vibrants
 - [x] lampes LED d'appoint (température et puissance réglable)
 - [x] chargeur 24V 8A
-- [x] purificateurs d'air
+- [ ] purificateur d'air
+
 
 ## À discuter
-- [ ] sonnette vidéo à l'entrée, à 90cm de haut, pour demander une aide humaine (besoin wifi ?)
+- [ ] sonnette vidéo à l'entrée, à 90cm de haut, pour demander une aide humaine.
 - Bandes d'interception aux entrées
-- [ ] Nous disposons d'un système auditif portable à boucle d'induction compatible avec tous les utilisateurs d'appareils auditifs dotés d'un réglage T (bobine téléphonique). Notre système de boucle d'induction convient également à certaines personnes sourdes appareillées et malentendantes qui n'ont pas d'appareil auditif compatible avec l'induction, grâce à l'utilisation d'un récepteur portatif.
-- [ ] wifi ?
+- [ ] système auditif portable à boucle d'induction compatible avec tous les utilisateurs d'appareils auditifs dotés d'un réglage T (bobine téléphonique). Notre système de boucle d'induction convient également à certaines personnes sourdes appareillées et malentendantes qui n'ont pas d'appareil auditif compatible avec l'induction, grâce à l'utilisation d'un récepteur portatif.
 
 ## Communication, questions à poser pour programme
 - Légende pour programme
@@ -37,7 +42,7 @@
 - Système d'alerte lumineux 
 
 ## Pour les grands travaux
-- boucle induction manétique (espace à choisir : théatre, foyer ? + récepteurs portatifs. voire malle chez AMH)
+- Boucle induction magnétique (espace à choisir : théatre, foyer ? + récepteurs portatifs. voire malle chez AMH)
 
 - Éclairage réglable : personnes photophobes, personnes sourdes aveugles Usher
 

@@ -1,7 +1,7 @@
 # Fiche Accessibilité
 
 !!! note ""
-    Page mise à jour le 14 mai 2025
+    Page mise à jour le 1er octobre 2025
 
 ## <span class="img-2rem">![](assets/marker.svg)</span> Emplacement
 
@@ -9,11 +9,11 @@ L’entrée principale du Lieu-Dit est au 10 rue Fontgiève, à Clermont-Ferrand
 
 L’entrée du Foyer du Lieu-Dit est rue Claude Baccot.
 
-*R Un rideau en fer peut fermer l’entrée rue Fontgiève. Le rideau est en 3 parties, et toutes ne sont pas ouvertes en même temps. Derrière le rideau il y a un Hall extérieur mais couvert. 
+!!! note "attention"
+    Un rideau en fer peut fermer l’entrée rue Fontgiève. Le rideau est en 3 parties, et toutes les parties ne sont pas ouvertes en même temps. Derrière le rideau il y a un Hall extérieur mais couvert. 
+
 Depuis le Hall couvert il y a des accès vers le Hall intérieur, vers la Vitrine et vers le Bureau.
 
-!!! warning "en cours"
-    Il y a une sonnette à l'entrée, à 90cm de haut, pour demander une aide humaine.
 
 Il y a des espaces ouverts au public : le Foyer, la Vitrine, le Hall, le Théâtre, le Club.
 
@@ -33,7 +33,7 @@ La rue Claude Baccot est pavée et se rejoint par la rue Fontgiève ou la rue Sa
 
 Dans la rue Baccot et dans la rue Sainte-Claire, le trottoir est délimité seulement par des potelets, et il n’y a pas de trottoir : le sol est au même niveau que le passage des véhicules.
 
-*R Le trottoir de la rue Fontgiève fait xx cm de large, c’est un peu étroit lorsqu’il y a beaucoup de monde dans le Hall extérieur.
+Le trottoir de la rue Fontgiève fait 2 mètres de large, c’est un peu étroit lorsqu’il y a beaucoup de monde dans le Hall extérieur.
 
 
 ### <span class="img-2rem">![](assets/bus.svg)</span>En tram ou en bus
@@ -53,7 +53,7 @@ Voir le trajet de l'arrêt de tram jusqu'à l'entrée rue Fontgiève [sur Google
 ### <span class="img-2rem">![](assets/car-side.svg)</span>En voiture
 Il n’y a des places de parking à proximité, et un parking souterrain place Gaillard.
 
-Il n’y a pas de place de parking large, réservée aux personnes en situation de handicap, à proximité. *R Plutôt dire où est la/les plus proches.
+La place de parking large, réservée aux personnes en situation de handicap, la plus proche, est située au 15 rue de la Morée, à 210 mètres de l'entrée rue Fontgiève.
 
 
 ## <span class="img-2rem">![](assets/universal-access-2.svg)</span>Accessibilité
@@ -61,6 +61,8 @@ Vous trouverez ci-dessous des informations spécifiques concernant certains fact
 
 
 ### <span class="img-2rem">![](assets/circle-info.svg)</span>Informations générales
+
+Il y a un plan tactile du rez-de-chaussée du Lieu-Dit, au Foyer.
 
 <span class="middle img-2rem">![](assets/toilet-paper.svg)</span>Des toilettes neutres sont disponibles :
 
@@ -77,10 +79,10 @@ Il y a une table pour changer bébé dans les toilettes du Foyer.
 
 Il y a des poubelles dans chaque cabine.
 
+Il y a des patères dans les toilettes, derrière les portes, à 90cm de hauteur, à 130cm de hauteur, et à 150cm de hauteur.
+
 !!! warning "en cours"
-    Il y a des protections périodiques à disposition dans les toilettes.
-    Il y a des poubelles dans les toilettes.
-    Il y a des patères dans les toilettes, derrière les portes, à 90cm de hauteur, à 130cm de hauteur, et à 150cm de hauteur.
+    Il y a parfois des protections périodiques à disposition dans les toilettes.
 
 <span class="middle img-2rem">![](assets/people-simple.svg)</span>Les aidants sont les bienvenus à tous les événements.
 
@@ -91,17 +93,17 @@ Il y a des poubelles dans chaque cabine.
 !!! warning "en cours"
     Des couvertures et des oreillers sont également à disposition des personnes qui souhaitent se reposer en raison de la fatigue ou d'un handicap. Elles sont stockées dans le Foyer, dans le caisson en bois près des marches qui descendent.
 
-<span class="middle img-2rem">![](assets/plate-utensils.svg)</span>Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier n’a qu’un bac. Des ustensiles de cuisine et des assiettes, couverts, verres sont à disposition.
+<span class="middle img-2rem">![](assets/plate-utensils.svg)</span>Dans la cuisine du Foyer, l’évier et les feux de cuisson *R sont à xxx cm de hauteur. L’évier a deux bacs. Il y a une lave-vaisselle. Des ustensiles de cuisine et des assiettes, couverts, verres sont à disposition.
 L'eau chaude est stockée dans un ballon, attention à l'économiser.
 
-Le réseau de téléphone ne passe pas toujours bien à l’intérieur des espaces. Il n’y a pas de connexion internet par WIFI à disposition.
+Le réseau de téléphone ne passe pas toujours bien à l’intérieur des espaces. Il y a une connexion internet par WIFI au Foyer.
 
 
 ### <span class="img-2rem">![](assets/wheelchair.svg)</span><span class="img-2rem">![](assets/person-cane-1.svg)</span>Informations pour les personnes avec un handicap moteur
-Les portes d'entrée ne sont pas motorisées. Ce sont des portes battantes. *R Cela peut être difficile pour les personnes en fauteuil roulant ou pour les personnes avec des troubles de la préhension.
+Les portes d'entrée ne sont pas motorisées. Ce sont des portes battantes. Cela peut être difficile pour les personnes en fauteuil roulant ou pour les personnes avec des troubles de la préhension.
 
-!!! failure "non installé"
-    Une assistance est disponible à la porte d'entrée si vous en avez besoin. Veuillez sonner à la porte pour obtenir de l'aide. La sonnette est à une hauteur adaptée aux utilisateurs de fauteuils roulants.
+<!-- !!! failure "non installé"
+    Une assistance est disponible à la porte d'entrée si vous en avez besoin. Veuillez sonner à la porte pour obtenir de l'aide. La sonnette est à une hauteur adaptée aux utilisateurs de fauteuils roulants. -->
 
 Le sol du rez-de-chaussée est plat et convient à la plupart des fauteuils roulants et autres aides à la mobilité.
 
@@ -155,7 +157,7 @@ Les chiens guides et les animaux d'assistance sont les bienvenus et de l'eau pot
 
 !!! note "Programme mensuel en braille et gros caractères"
     Le programme mensuel en gros caractères est affiché à l'entrée du Lieu-Dit.
-    Le programme mensuel est disponible en braille et en version gros caractères sur demande.
+    Le programme mensuel est disponible en braille et en version gros caractères dans le Foyer et sur demande.
 
 Les documents sont généralement disponibles en version gros caractères.
 
@@ -173,7 +175,7 @@ Un éclairage sans scintillement est utilisé dans tout le bâtiment.
 
 La Vitrine et l’Appartement ont de grandes baies vitrées, et ne disposent pas de stores réglables permettant de réduire l'éblouissement.
 
-Les vitres de la Vitrine sont occultées en partie *R jusqu’à xx cm. Les autres espaces ont très peu de vitres donnant sur l’extérieur.
+<!-- Les vitres de la Vitrine sont occultées en partie *R jusqu’à xx cm. Les autres espaces ont très peu de vitres donnant sur l’extérieur. -->
 
 Il n'y a pas de bande d'interception aux entrées rue Fontgiève ou rue Claude Baccot.
 
@@ -182,27 +184,26 @@ Il n'y a pas de bande d'interception aux entrées rue Fontgiève ou rue Claude B
 
 A l'entrée rue Fontgiève, le hall extérieur abrité est très sombre.
 
-!!! warning "en cours"
-    Les encadrements de porte, les mains courantes des escaliers sont contrastées.
-    Les éléments des toilettes et sanitaires sont contrastés.
+Les encadrements de porte, les mains courantes des escaliers sont contrastées.
+Les éléments des toilettes et sanitaires sont contrastés.
 
-!!! warning "en cours d'installation"
-    Il y a une bande de guidage dans la Galerie, qui relie l'entrée du Foyer, l'entrée du Hall et l'entrée de l'Atelier.
+<!-- !!! warning "en cours d'installation"
+    Il y a une bande de guidage dans la Galerie, qui relie l'entrée du Foyer, l'entrée du Hall et l'entrée de l'Atelier. -->
 
-Dans le Foyer des grandes marches forment un gradin qui donne sur un petit espace plus bas. Des marches permettent d’y descendre. Il n’y a pas de rampe.
+Dans le Foyer des grandes marches forment un gradin qui donne sur un petit espace plus bas. Des marches permettent d’y descendre. Il n’y a pas de main courante.
 
-L’accès aux étages se fait par un escalier avec des marches alternativement blanches et noires. Une rampe est présente mais s’arrête avant la dernière marche.
+L’accès aux étages se fait par un escalier avec des marches alternativement blanches et noires. Une main courante est présente mais s’arrête avant la dernière marche.
 
-Il y a une volée de marches *R (avec ou sans rampe ?) puis une petite pente pour monter au Théâtre.
+Il y a une volée de marches avec main courante puis une petite pente pour monter au Théâtre.
 
-Il y a quelques marches le long du couloir pour aller au Club, *R (avec ou sans rampe ?). Les toilettes sont le long de ce couloir.
+Il y a quelques marches le long du couloir pour aller au Club, avec main courante *[?]*. Les toilettes sont le long de ce couloir.
 
 Il y a une volée de marches pour descendre dans les Loges.
 
-Il y a un grand escalier pour aller à l’Appartement *R (avec ou sans rampe ?).
+Il y a un grand escalier pour aller à l’Appartement avec main courante.
 
 
-### *R Informations pour les personnes autistes, anxieuses et neurodiverses
+### Informations pour les personnes autistes, anxieuses et neurodiverses
 Nous ne disposons pas de jouets sensoriels.
 
 
@@ -210,7 +211,7 @@ Nous ne disposons pas de jouets sensoriels.
 Il n’y a pas de système de climatisation.
 
 !!! note "Purificateurs d'air"
-    Deux purificateurs d'air sont à disposition sur demande et peuvent être installés dans les différents espaces.
+    Un purificateur d'air est à disposition sur demande et peut être installé dans les différents espaces.
 
 !!! warning "en cours"
     Des détecteurs de dioxyde de carbone (CO2) pour contrôler la qualité de l’air sont présents :

@@ -1,8 +1,12 @@
 # <span class="middle img-3rem">![](assets/lsf.png)</span>Programmes en Langue des signes française (LSF)
 
+<!-- Changer le mois en cours -->
+
 ## Octobre 2025
 
 <ul class="playlist_lsf" id="lsf-10-25"></ul>
+
+<!-- Ne pas toucher en dessous -->
 
 <link href="stylesheets/video-js.css" rel="stylesheet" />
 <link href="stylesheets/extra.video-js.css" rel="stylesheet" />
@@ -29,13 +33,13 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
 
 ## Programmes précédents
 
+<!-- ajouter le mois précédent -->
+
 ### Septembre 2025
 <ul class="playlist_lsf" id="lsf-09-25"></ul>
 
 ### Juillet 2025
 - [Jeudi 3 Juillet 18h : Lien Video LSF](http://agenda.unadev.com/wp-content/uploads/2025/06/jeudi-3-juillet-Lieu-Dit-atelier-air-et-pot-fin-de-chantier.mp4)
-
-- 12, 18, 19, 26 juillet
 
 ### Juin 2025
 <ul class="playlist_lsf" id="lsf-06-25"></ul>
@@ -90,11 +94,13 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
         const base = "https://cloud.laucarre.com/s/LD-LSF-prog/"
         return base+"download?path=%2F"+yyyy+"_"+mm+"&files="
     }
+    // ajouter la ligne pour le mois en cours :
     populate_list(playlist_10_2025, "lsf-10-25", getdirname(10,2025));
     populate_list(playlist_09_2025, "lsf-09-25", getdirname(09,2025));
     populate_list(playlist_06_2025, "lsf-06-25", getdirname(06,2025));
     populate_list(playlist_05_2025, "lsf-05-25", getdirname(05,2025));
     populate_list(playlist_04_2025, "lsf-04-25", getdirname(04,2025));
     populate_list(playlist_03_2025, "lsf-03-25", getdirname(03,2025));
+    // mettre à jour la ligne suivante :
     doo(null, getdirname(10,2025) + playlist_10_2025[0].url)
 </script>

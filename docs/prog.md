@@ -1,5 +1,11 @@
 # Télécharger le programme accessible, gros caractères
 
+## Novembre 2025
+- [Programme novembre 2025 - PDF](programme/2025/Programme%20Lieu-Dit%20novembre%202025.pdf)
+- [Programme novembre 2025 - Libre Office](programme/2025/Programme%20Lieu-Dit%20novembre%202025.odt)
+- [Programme novembre 2025 - Word](programme/2025/Programme%20Lieu-Dit%20novembre%202025.docx)
+
+
 ## Octobre 2025
 - [Programme octobre 2025 - PDF](programme/2025/Programme%20Lieu-Dit%20octobre%202025.pdf)
 - [Programme octobre 2025 - Libre Office](programme/2025/Programme%20Lieu-Dit%20octobre%202025.odt)

@@ -1,4 +1,18 @@
 
+let playlist_04_2026 = [
+    {
+        title: "Mercredi 8 et vendredi 10 avril",
+        url:"01 mercredi 8 et vendredi 10 avril.mp4"
+    },
+    {
+        title: "Samedi 11 avril",
+        url:"02 samedi 11 avril.mp4"
+    },
+    {
+        title: "Mercredi 15 avril",
+        url:"03 mercredi 15 avril.mp4"
+    },
+]
 let playlist_10_2025 = [
     {
         title: "Jeudi 2 octobre",

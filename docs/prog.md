@@ -1,5 +1,10 @@
 # Télécharger le programme accessible, gros caractères
 
+## Septembre 2026
+- [Programme septembre 2026 - PDF](programme/2026/Programme%20Lieu-Dit%20septembre%202026.pdf)
+- [Programme septembre 2026 - Libre Office](programme/2026/Programme%20Lieu-Dit%20septembre%202026.odt)
+- [Programme septembre 2026 - Word](programme/2026/Programme%20Lieu-Dit%20septembre%202026.docx)
+
 ## Avril 2026
 - [Programme avril 2026 - PDF](programme/2026/Programme%20Lieu-Dit%20avril%202026.pdf)
 - [Programme avril 2026 - Libre Office](programme/2026/Programme%20Lieu-Dit%20avril%202026.odt)

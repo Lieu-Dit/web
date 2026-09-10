@@ -1,4 +1,23 @@
 
+let playlist_09_2026 = [
+    {
+        title: "Dimanche 6 septembre",
+        url:"01 Dimanche 6 septembre 2026.mp4"
+    },
+    {
+        title: "Vendredi 18 septembre",
+        url:"02 Vendredi 18 septembre 2026.mp4"
+    },
+    {
+        title: "Vendredi 25 septembre",
+        url:"03 Vendredi 25 septembre 2026.mp4"
+    },
+    {
+        title: "Week end 26 et 27 septembre",
+        url:"04 Week end 26 et 27 septembre 2026.mp4"
+    },
+]
+
 let playlist_04_2026 = [
     {
         title: "Mercredi 8 et vendredi 10 avril",

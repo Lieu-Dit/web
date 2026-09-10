@@ -2,9 +2,9 @@
 
 <!-- Changer le mois en cours -->
 
-## Avril 2026
+## Septembre 2026
 
-<ul class="playlist_lsf" id="lsf-04-26"></ul>
+<ul class="playlist_lsf" id="lsf-09-26"></ul>
 
 <!-- Ne pas toucher en dessous -->
 
@@ -34,6 +34,8 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
 ## Programmes précédents
 
 <!-- ajouter le mois précédent -->
+### Avril 2026
+<ul class="playlist_lsf" id="lsf-04-26"></ul>
 
 ### Octobre 2025
 <ul class="playlist_lsf" id="lsf-10-25"></ul>
@@ -98,6 +100,7 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
         return base+"download?path=%2F"+yyyy+"_"+mm+"&files="
     }
     // ajouter la ligne pour le mois en cours :
+    populate_list(playlist_09_2026, "lsf-09-26", getdirname(09,2026));
     populate_list(playlist_04_2026, "lsf-04-26", getdirname(04,2026));
     populate_list(playlist_10_2025, "lsf-10-25", getdirname(10,2025));
     populate_list(playlist_09_2025, "lsf-09-25", getdirname(09,2025));
@@ -106,5 +109,5 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
     populate_list(playlist_04_2025, "lsf-04-25", getdirname(04,2025));
     populate_list(playlist_03_2025, "lsf-03-25", getdirname(03,2025));
     // mettre à jour la ligne suivante :
-    doo(null, getdirname(04,2026) + playlist_04_2026[0].url)
+    doo(null, getdirname(09,2026) + playlist_09_2026[0].url)
 </script>

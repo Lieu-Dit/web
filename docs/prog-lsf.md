@@ -97,7 +97,7 @@ Merci à Carole et Fabienne pour les vidéos LSF du programme !
     function getdirname(mm,yyyy){
         mm = (mm < 10) ? '0' + mm.toString() : mm.toString();
         const base = "https://cloud.laucarre.com/s/LD-LSF-prog/"
-        return base+"download?path=%2F"+yyyy+"_"+mm+"&files="
+        return base+"download?path=%2F"+yyyy+"%2F"+yyyy+"_"+mm+"&files="
     }
     // ajouter la ligne pour le mois en cours :
     populate_list(playlist_09_2026, "lsf-09-26", getdirname(09,2026));

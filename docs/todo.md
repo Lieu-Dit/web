@@ -9,7 +9,7 @@
 - [x] table pour changer bébé dans les toilettes du Foyer
 - [ ] protections périodiques dans les toilettes
 
-- [ ] EPI dans l'atelier
+- [x] EPI dans l'atelier
 
 - [ ] capteurs de qualité de l'air
 
@@ -31,7 +31,7 @@
 
 ## À discuter
 - [ ] sonnette vidéo à l'entrée, à 90cm de haut, pour demander une aide humaine.
-- Bandes d'interception aux entrées
+- [ ] Bandes d'interception aux entrées
 - [ ] système auditif portable à boucle d'induction compatible avec tous les utilisateurs d'appareils auditifs dotés d'un réglage T (bobine téléphonique). Notre système de boucle d'induction convient également à certaines personnes sourdes appareillées et malentendantes qui n'ont pas d'appareil auditif compatible avec l'induction, grâce à l'utilisation d'un récepteur portatif.
 
 ## Communication, questions à poser pour programme

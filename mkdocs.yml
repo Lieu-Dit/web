@@ -29,10 +29,10 @@ nav:
     - Où trouver la fiche ?: access-infos.md
     - Plus d'informations:
       #- Photographies: photos.md
-      - Travail en cours: todo.md
+      - Travail réalisé: todo.md
       - Outils pour les orgas: ressources.md
       # - Ressources:
-      - orgas/dispositifs.md
+      # - orgas/dispositifs.md
       - orgas/accueillir-dv.md
       - orgas/materiel.md
   - Programme:

@@ -48,4 +48,4 @@ Si le projet est retenu par les « Amix du Lieu-Dit », le Lieu-Dit accueille 
 
 Les associations qui n’ont pas de subvention de la part du Lieu-Dit peuvent organiser des événements une fois par an.
 
-Le Lieu-Dit organise des permanences un jeudi sur deux, de 16h à 18h, pour tout vous expliquer.
+Le Lieu-Dit a arrêté d'organiser des permanences pour expliquer son fonctionnement.

@@ -22,13 +22,13 @@ theme:
 
 nav:
   - C'est quoi ?: index.md
-  - <span class="lsf braille">C'est quoi ? LSF</span>: index-lsf.md 
+  #- <span class="lsf braille">C'est quoi ? LSF</span>: index-lsf.md 
   - Accessibilité: 
     - Fiche Accessibilité: access.md
-    - <span class="lsf">Fiche Accessibilité LSF</span>: access-lsf.md 
+    #- <span class="lsf">Fiche Accessibilité LSF</span>: access-lsf.md 
     - Où trouver la fiche ?: access-infos.md
     - Plus d'informations:
-      - Photographies: photos.md
+      #- Photographies: photos.md
       - Travail en cours: todo.md
       - Outils pour les orgas: ressources.md
       # - Ressources:

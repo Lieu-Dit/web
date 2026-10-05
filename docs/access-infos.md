@@ -9,7 +9,7 @@ La fiche accessibilité est affichée à l'entrée du Lieu-Dit, 10 rue Fontgièv
 
 La fiche accessibilité est disponible en braille et en gros caractères à l'entrée du Lieu-Dit.
 
-Un QR code est affiché à l'entrée du Lieu-Dit pour retrouver la vidéo en LSF.
+La vidéo n'est pas disponible en LSF pour le moment.
 <!-- 
 Vous pouvez aussi télécharger [la fiche Accessibilité au format PDF](). 
 

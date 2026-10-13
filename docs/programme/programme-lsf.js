@@ -5,16 +5,16 @@ let playlist_10_2026 = [
         url:"01 Vendredi 9 octobre 2026.mp4"
     },
     {
-        title: "Mercredi 14  octobre",
-        url:"02 Mercredi 14  octobre 2026.mp4"
+        title: "Mercredi 14 octobre",
+        url:"02 Mercredi 14 octobre 2026.mp4"
     },
     {
         title: "Vendredi 23 octobre",
         url:"03 Vendredi 23 octobre 2026.mp4"
     },
     {
-        title: "Samedi 24  octobre",
-        url:"04 Samedi 24  octobre 2026.mp4"
+        title: "Samedi 24 octobre",
+        url:"04 Samedi 24 octobre 2026.mp4"
     },
     {
         title: "Vendredi 31 octobre",

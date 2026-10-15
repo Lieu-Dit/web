@@ -14,7 +14,7 @@ Ces projets sont parfois ouverts au public, et parfois non.
 
 Au Lieu-Dit il y a des résidences de création, des conférences, des projections, des concerts, des expositions, de la recherche, des journées professionnelles, des échanges de connaissances, des réunions et des rencontres associatives.
 
-Depuis l’ouverture du Lieu-Dit, une centaine d’associations participent aux activités du Lieu-Dit et à la gouvernance. 
+Depuis l’ouverture du Lieu-Dit, plus de 200 associations participent aux activités du Lieu-Dit et à la gouvernance. 
 
 La gouvernance, c’est quand on prend part aux grandes décisions du lieu, par exemple la programmation, les aménagements, les travaux, les liens avec le quartier, les règles pour cohabiter. 
 
@@ -48,4 +48,5 @@ Si le projet est retenu par les « Amix du Lieu-Dit », le Lieu-Dit accueille 
 
 Les associations qui n’ont pas de subvention de la part du Lieu-Dit peuvent organiser des événements une fois par an.
 
-Le Lieu-Dit a arrêté d'organiser des permanences pour expliquer son fonctionnement.
+!!! note "Permanences pour le fonctionnement"
+    En ce moment, le Lieu-Dit ne propose plus de permanences pour expliquer son fonctionnement.
